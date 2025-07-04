@@ -1,0 +1,959 @@
+[
+  {
+    "id": "5204",
+    "restaurant": "Perla Oriental",
+    "descripcion": "Disfruta de un 40% de descuento todos los miércoles en Perla Oriental, ubicado en Rancagua. Descuento máximo por pedido de $40.000.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/054/411/bd545c82-73d8-4492-8df4-33d9e1fcefa0/original/Logo_PerlaOrienta.png",
+      "https://banco.santander.cl/uploads/000/054/412/ef5ec714-96de-4141-96a0-736c8e4bde42/original/Detalle_PerlaOrienta.png"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Rancagua"],
+    "bank": "santander"
+  },
+  {
+    "id": "5203",
+    "restaurant": "Brunetti",
+    "descripcion": "Disfruta de un 40% de descuento todos los miércoles en Brunetti, ubicado en Antofagasta. Descuento máximo por pedido de $40.000.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/054/413/69d1f24b-c8d9-4f08-820f-c971b3f30d37/original/Logo_Brunetti.png",
+      "https://banco.santander.cl/uploads/000/054/414/fb22d40d-d5cb-4441-8c99-c7b14bae0128/original/Detalle_Brunetti.png"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Antofagasta"],
+    "bank": "santander"
+  },
+  {
+    "id": "5202",
+    "restaurant": "Casona bar",
+    "descripcion": "Disfruta de un 40% de descuento todos los miércoles en Casona Bar, ubicado en Concepción. Descuento máximo por pedido de $40.000.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/054/409/fecddb7a-5297-41d5-a6af-81e18456c12b/original/Logo_Cautiva.png",
+      "https://banco.santander.cl/uploads/000/054/410/365e09c3-ef27-481a-a921-a729d30a6b25/original/Detalle_Cautiva_2.jpg"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Concepción"],
+    "bank": "santander"
+  },
+  {
+    "id": "5201",
+    "restaurant": "Fidelio",
+    "descripcion": "Disfruta de un 40% de descuento todos los miércoles en Reñaca, válido para compras en local. Descuento máximo por pedido de $40.000.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/054/399/ba41c098-ba90-4307-8b48-bfe7fa58f8e7/original/Logo_Fidelio.png",
+      "https://banco.santander.cl/uploads/000/054/400/33c1d497-bae7-4c79-8389-e1d198b4b17b/original/Detalle_Fidelio.png"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Reñaca"],
+    "bank": "santander"
+  },
+  {
+    "id": "5200",
+    "restaurant": "Majestic",
+    "descripcion": "Disfruta de un 30% de descuento todos los miércoles en Vitacura. Descuento máximo por pedido de $40.000.",
+    "titulo": "30% dcto.",
+    "descuento": 30,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/054/395/2524fc0e-8295-478a-a007-1b1f53ae0d86/original/Logonuevo_Majestic.png",
+      "https://banco.santander.cl/uploads/000/054/396/2e30ac75-0cfc-42bb-88ae-595bc6189bbc/original/Detalle_Majestic_julio.jpg"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Vitacura"],
+    "bank": "santander"
+  },
+  {
+    "id": "5199",
+    "restaurant": "Hijo del Inca",
+    "descripcion": "Disfruta de un 30% de descuento todos los miércoles en Hijo del Inca, ubicado en La Reina, con un descuento máximo de $40.000 por pedido.",
+    "titulo": "30% dcto.",
+    "descuento": 30,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/054/393/15454246-21f0-40c0-87ad-d6672c1b4297/original/Logo_Hijodel_inca.png",
+      "https://banco.santander.cl/uploads/000/054/394/52e30f53-8732-4713-91be-7f6ec88582e0/original/Detalle_hijodelinca.jpg"
+    ],
+    "days": ["miércoles"],
+    "locations": ["La Reina"],
+    "bank": "santander"
+  },
+  {
+    "id": "5197",
+    "restaurant": "La Candelaria Pizzería",
+    "descripcion": "Disfruta de un 40% de descuento todos los martes en La Serena. Descuento máximo por pedido de $100.000.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/054/386/58940093-f38f-4d8d-8d80-d234dd2610d2/original/Logo_CandelariaPizzeria.png",
+      "https://banco.santander.cl/uploads/000/054/387/ef1f63f0-2479-4e98-a541-72718e8b6236/original/Detallenuevo_CandelariaPizzeria.png"
+    ],
+    "days": ["martes"],
+    "locations": ["La Serena"],
+    "bank": "santander"
+  },
+  {
+    "id": "5191",
+    "restaurant": "Perutaly",
+    "descripcion": "Disfruta de un 40% de descuento todos los miércoles en Curicó. Tope de descuento de $40.000.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/054/356/a2ad9ead-4b47-4115-b786-5824fe9b0e88/original/Logo_Perutaly.png",
+      "https://banco.santander.cl/uploads/000/054/357/66f9984f-c5e0-4629-a2ad-e3635bc30ea8/original/Detalle_Perutaly.png"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Curicó"],
+    "bank": "santander"
+  },
+  {
+    "id": "5190",
+    "restaurant": "Piwén",
+    "descripcion": "Aprovecha un 25% de descuento todos los miércoles en Piwén, ubicado en la Región Metropolitana de Chile. No te lo pierdas.",
+    "titulo": "25% dcto.",
+    "descuento": 25,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/054/346/47a57215-0813-4589-bdba-652ae50eea89/original/Logo_Piwen.png",
+      "https://banco.santander.cl/uploads/000/054/347/5f6994c0-f151-450f-9447-7759d5d6cdde/original/Detalle_Piwen.jpg"
+    ],
+    "days": ["miércoles"],
+    "locations": ["metropolitana"],
+    "bank": "santander"
+  },
+  {
+    "id": "5189",
+    "restaurant": "Café Cielo Milano",
+    "descripcion": "Disfruta de un 40% de descuento todos los miércoles en Café Cielo Milano, ubicado en Vitacura, con un descuento máximo de $40.000 por pedido.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/054/483/914c446d-64bd-45f4-a7c4-213e5ff3635c/original/Logo_Cafe_Milano.png",
+      "https://banco.santander.cl/uploads/000/054/484/a09cf0d6-f5b4-4ccb-81a0-3950125aeda2/original/Detalle_Caf_Milano.png"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Vitacura"],
+    "bank": "santander"
+  },
+  {
+    "id": "5188",
+    "restaurant": "La Rompiente",
+    "descripcion": "Disfruta de un 40% de descuento todos los martes en La Rompiente, ubicado en Vitacura, con un descuento máximo de $100.000 por pedido.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/054/333/2de49032-515d-4175-992a-7fb313cce04d/original/Logo_LaRompiente.png",
+      "https://banco.santander.cl/uploads/000/054/334/70bf4f1b-3df3-4d59-8352-35e9806ddf3e/original/Detalle_LaRompiente.png"
+    ],
+    "days": ["martes"],
+    "locations": ["Vitacura"],
+    "bank": "santander"
+  },
+  {
+    "id": "5173",
+    "restaurant": "Oia",
+    "descripcion": "Disfruta de un 50% de descuento todos los martes en Oia, ubicado en Vitacura, con un tope de descuento de $50.000.",
+    "titulo": "50%. dcto.",
+    "descuento": 50,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/053/963/855d8fb1-6400-4568-9161-c1479654c7ad/original/Logo_Oia.png",
+      "https://banco.santander.cl/uploads/000/053/964/8f03a5bf-a06a-499d-8c88-1720f82836e6/original/Detalle_Oia.png"
+    ],
+    "days": ["martes"],
+    "locations": ["Vitacura"],
+    "bank": "santander"
+  },
+  {
+    "id": "5169",
+    "restaurant": "Siete Olas",
+    "descripcion": "Disfruta de un 50% de descuento en Siete Olas, ubicado en Zapallar. Tope de descuento de $50.000. Válido todos los jueves.",
+    "titulo": "50%. dcto.",
+    "descuento": 50,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/053/859/1e706be5-9221-4cfe-b6ae-c090ca9d5ea5/original/Logo_SieteOlas.png",
+      "https://banco.santander.cl/uploads/000/053/860/788afb03-3f3a-4016-95ee-c3ff0dff76f1/original/Detalle_Sietaolas2.png"
+    ],
+    "days": ["jueves"],
+    "locations": ["zapallar"],
+    "bank": "santander"
+  },
+  {
+    "id": "5168",
+    "restaurant": "Forá",
+    "descripcion": "Disfruta de un 50% de descuento todos los domingos en Forá, ubicado en Providencia, con un tope de descuento de $50.000.",
+    "titulo": "50%. dcto. ",
+    "descuento": 50,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/053/857/dba6b236-7707-4c48-a8c9-51718ee63415/original/Logo_Fora.png",
+      "https://banco.santander.cl/uploads/000/053/858/d19f6a55-5fd4-4dbc-a24f-04a0a9ed2358/original/Detalle_Fora.png"
+    ],
+    "days": ["domingo"],
+    "locations": ["Providencia"],
+    "bank": "santander"
+  },
+  {
+    "id": "5166",
+    "restaurant": "Dagan",
+    "descripcion": "Disfruta de un 50% de descuento todos los lunes en Dagan, ubicado en Vitacura, con un tope de descuento de $50.000.",
+    "titulo": "50%. dcto. ",
+    "descuento": 50,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/053/853/7fdceb7c-35b2-479a-81ff-82181b5900cd/original/Logo_Degan.png",
+      "https://banco.santander.cl/uploads/000/053/854/3259631b-5d90-4957-a1c1-11bd7c4d8f45/original/Detalle_Dagan.png"
+    ],
+    "days": ["lunes"],
+    "locations": ["Vitacura"],
+    "bank": "santander"
+  },
+  {
+    "id": "5163",
+    "restaurant": "Casa Espoz",
+    "descripcion": "Disfruta de un 20% de descuento en Vitacura, válido los viernes, sábados y domingos. Ideal para disfrutar en pareja, familia o amigos.",
+    "titulo": "20% dcto. ",
+    "descuento": 20,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/053/847/009ced27-5e36-4a48-b4be-e6090525f5f8/original/logo_casa_espoz_500x800.png",
+      "https://banco.santander.cl/uploads/000/053/848/360e245e-e40a-450f-959d-261d7cae134b/original/Detalle_CasaEspoz.png"
+    ],
+    "days": ["viernes", "sábado", "domingo"],
+    "locations": ["Vitacura"],
+    "bank": "santander"
+  },
+  {
+    "id": "5146",
+    "restaurant": "Chiringuito Costa Cachagua",
+    "descripcion": "Disfruta de un 50% de descuento todos los viernes en Cachagua, con un tope de $50.000. Exclusivo para clientes con Nuevas Tarjetas de Crédito Santander American Express.",
+    "titulo": "50% dcto.",
+    "descuento": 50,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/053/735/afcec7e5-7742-4a92-a685-e22522c1bf08/original/Logo_Chiringuito_1.png",
+      "https://banco.santander.cl/uploads/000/053/736/0228085f-c211-46dd-8c46-b245846addc4/original/Detalle_Chiringuito_1.png"
+    ],
+    "days": ["viernes"],
+    "locations": ["cachagua"],
+    "bank": "santander"
+  },
+  {
+    "id": "5120",
+    "restaurant": "Le Vice Chocolat",
+    "descripcion": "Disfruta de un 40% de descuento todos los jueves en Le Vice Chocolat, ubicado en Vitacura, Metropolitana.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/053/337/23d63453-c438-442f-b0e3-0d56334eb717/original/Logo_LeVice.png",
+      "https://banco.santander.cl/uploads/000/053/338/395eced7-4d73-4912-9216-1fb2882d024a/original/Detalle_LeVice.png"
+    ],
+    "days": ["jueves"],
+    "locations": ["Vitacura"],
+    "bank": "santander"
+  },
+  {
+    "id": "5119",
+    "restaurant": "Dulcería Puerto Varas",
+    "descripcion": "Descuento del 40% todos los miércoles en Dulcería Puerto Varas, válido en la Región Metropolitana (Vitacura, La Reina, Lo Barnechea). Tope de descuento: $40.000.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/053/335/dc584b1b-9ce3-4b9f-8d16-4213cc6f89ef/original/Logo_DulceriaPtoVaras.png",
+      "https://banco.santander.cl/uploads/000/053/336/688fa8ae-cff5-4993-bd7d-5b1ca083c677/original/Detalle_DulceriaPtoVaras.jpg"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Vitacura", "La Reina", "Lo Barnechea"],
+    "bank": "santander"
+  },
+  {
+    "id": "5118",
+    "restaurant": "Sushi Nikkei 17",
+    "descripcion": "Disfruta de un 40% de descuento todos los miércoles en Sushi Nikkei 17, ubicado en Providencia, con un descuento máximo de $40.000 por pedido.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/053/330/96285d92-68d5-49c7-b2c5-90c01916fe19/original/Logo_SushiNikkei17.png",
+      "https://banco.santander.cl/uploads/000/053/331/2d05a5d1-62fd-43b3-ae47-e6857064a817/original/Detalle_SushiNikkei17.png"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Providencia"],
+    "bank": "santander"
+  },
+  {
+    "id": "5117",
+    "restaurant": "Berlin Döner Kebab",
+    "descripcion": "Disfruta de un 40% de descuento todos los miércoles en Berlin Döner Kebab, ubicado en la Región Metropolitana. Descuento máximo de $40.000 por pedido.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/053/328/6f8c5387-6ebe-4f4e-b19f-55a4d42b76a5/original/Logo_Berlin_DK.png",
+      "https://banco.santander.cl/uploads/000/053/329/4b4e047d-a908-4db1-ab68-fcc1a8f3c7f7/original/Detalle_Berlin_DK.png"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Región Metropolitana"],
+    "bank": "santander"
+  },
+  {
+    "id": "5108",
+    "restaurant": "Juan Esparraguito",
+    "descripcion": "Aprovecha un 30% de descuento en frutas y verduras todos los miércoles. Descuento máximo de $100.000. Válido en la Región Metropolitana.",
+    "titulo": "30% dcto. todos los miércoles.",
+    "descuento": 30,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/053/435/cc5b09ae-5dfe-4603-b845-7583434c4144/original/Logo2_JuanEsparraguito.png",
+      "https://banco.santander.cl/uploads/000/053/436/81fb33cd-e8dc-423f-b59d-14957f3ebb3c/original/Detalle_JuanEsparraguito.jpeg"
+    ],
+    "days": ["miércoles"],
+    "locations": ["metropolitana"],
+    "bank": "santander"
+  },
+  {
+    "id": "4984",
+    "restaurant": "Secretos del Mar",
+    "descripcion": "Disfruta de un 40% de descuento todos los miércoles en Secretos del Mar, ubicado en Antofagasta. Descuento máximo por pedido de $100.000.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/051/421/4427dbb6-28da-46d9-b128-2f05e90150d8/original/Logo_Secretosdelmar_negro.png",
+      "https://banco.santander.cl/uploads/000/051/422/98694f3f-6721-4179-995b-1cbe92503542/original/Detalle_Secretos_del_mar-04.jpg"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Antofagasta"],
+    "bank": "santander"
+  },
+  {
+    "id": "4958",
+    "restaurant": "El Mundo del Vino",
+    "descripcion": "¡Aprovecha un 40% de descuento todos los lunes en viñas seleccionadas en la Región Metropolitana! Descuento máximo de $100.000 por pedido.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/050/970/29b31161-8aa2-4f4d-bc53-f7e7e23f1e16/original/logo_el_mundo_del_vino_.jpg",
+      "https://banco.santander.cl/uploads/000/050/971/aaec15c8-c48b-41ce-959e-a95a2c027d8c/original/detalle_mundoelvino_1_.jpg"
+    ],
+    "days": ["lunes"],
+    "locations": ["Providencia", "Las Condes", "Lo Barnechea"],
+    "bank": "santander"
+  },
+  {
+    "id": "4957",
+    "restaurant": "Bozzo",
+    "descripcion": "Disfruta un 40% de descuento online y 20% presencial en Bozzo, válido en la Región Metropolitana. Descuento máximo de $40.000.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/052/372/c6ecb291-fe6a-4d8b-affa-5721f6944cad/original/logo_bozzo.jpg",
+      "https://banco.santander.cl/uploads/000/052/373/e0d04ad8-dd8e-4c82-8915-6b72a7cab4db/original/Detalle2_bozzo_1_.jpg"
+    ],
+    "days": ["martes"],
+    "locations": [
+      "metropolitana",
+      "Las Condes",
+      "Vitacura",
+      "Lo Barnechea",
+      "Providencia",
+      "Santiago",
+      "peñalolén",
+      "la florida"
+    ],
+    "bank": "santander"
+  },
+  {
+    "id": "4945",
+    "restaurant": "El Taller",
+    "descripcion": "Disfruta de un 40% de descuento todos los martes en El Taller, ubicado en Providencia y Lo Barnechea, con un tope de descuento de $15.000.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/050/912/1bd0b0df-0077-4572-ad7f-07279fae0c0f/original/Logo_ElTaller.png",
+      "https://banco.santander.cl/uploads/000/050/913/2fd4167a-04a3-4ec8-a176-3707261665e0/original/Detalle_ElTaller.png"
+    ],
+    "days": ["martes"],
+    "locations": ["Providencia", "Lo Barnechea"],
+    "bank": "santander"
+  },
+  {
+    "id": "4911",
+    "restaurant": "Da Alessandro",
+    "descripcion": "Disfruta de un 40% de descuento todos los jueves en Puerto Varas. Descuento máximo de $100.000 por pedido.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/050/428/ae689cfa-2f68-4143-9379-7f3afbd751d6/original/Logo_DaAlessandro.png",
+      "https://banco.santander.cl/uploads/000/050/429/99e6d24e-24df-4d6c-ba68-1c843df43194/original/Detalle_DaAlessandro.png"
+    ],
+    "days": ["jueves"],
+    "locations": ["puerto varas"],
+    "bank": "santander"
+  },
+  {
+    "id": "4904",
+    "restaurant": "La Caperucita y el Lobo",
+    "descripcion": "Disfruta de un 40% de descuento todos los jueves en La Caperucita y el Lobo, ubicado en Valparaíso. Descuento máximo de $100.000 por pedido.",
+    "titulo": "40% dcto. todos los jueves",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/050/451/76f4ebee-9a6a-4988-9615-030da5a21d4b/original/Logo_Caperucitayellobo.png",
+      "https://banco.santander.cl/uploads/000/050/452/2b8b5691-1c65-4a4b-8437-e4494d54a811/original/Detalle_Caperucitayellobo_2_.png"
+    ],
+    "days": ["jueves"],
+    "locations": ["Valparaíso"],
+    "bank": "santander"
+  },
+  {
+    "id": "4817",
+    "restaurant": "Jardín Mallinkrodt",
+    "descripcion": "Disfruta de un 40% de descuento todos los miércoles en Jardín Mallinkrodt, ubicado en Vitacura, con un tope de descuento de $40.000.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/049/642/f3373b6f-0a40-4008-b2fd-be4bc6173819/original/Logo_JardinMallinkrodt.png",
+      "https://banco.santander.cl/uploads/000/049/643/f3834680-ecaf-4b5c-91c5-e8f3c5d4feb2/original/Detalle_JardinMallinkrodt1.jpg"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Vitacura"],
+    "bank": "santander"
+  },
+  {
+    "id": "4790",
+    "restaurant": "Violeta",
+    "descripcion": "Disfruta de un 40% de descuento todos los miércoles en Violeta, ubicado en Providencia, Metropolitana. Tope de descuento de $40.000.",
+    "titulo": "40%. dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/049/266/cb07008c-0bfd-43ba-8708-7474f6ae5b97/original/Logo_Violeta.jpg",
+      "https://banco.santander.cl/uploads/000/049/267/c6afd724-52d8-43a3-8fe1-50be30edb344/original/Detalle_Violeta.jpg"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Providencia"],
+    "bank": "santander"
+  },
+  {
+    "id": "4787",
+    "restaurant": "Don Camarón",
+    "descripcion": "Disfruta de un 40% de descuento todos los miércoles en Don Camarón, ubicado en Temuco, Araucanía. Tope de descuento de $40.000.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/049/260/e1cb6fe7-89de-4ddb-916c-0ec9b3350fa9/original/Logo_DonCamaron.jpg",
+      "https://banco.santander.cl/uploads/000/051/758/8ca712e9-8620-4809-a931-486aadbd71bd/original/Detalle_DonCamaron.png"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Temuco"],
+    "bank": "santander"
+  },
+  {
+    "id": "4716",
+    "restaurant": "Sumoku",
+    "descripcion": "Disfruta de un 50% de descuento todos los miércoles en Reñaca, Valparaíso. Tope de descuento de $50.000.",
+    "titulo": "50%. dcto.",
+    "descuento": 50,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/048/414/64db5b2f-91b5-4750-9167-17ee7719a3b0/original/Logo_Sumoku.png",
+      "https://banco.santander.cl/uploads/000/048/415/71009adf-02bc-4a31-9b49-36c9622ed845/original/Dise_o_sin_t_tulo-22.png"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Reñaca", "Valparaíso"],
+    "bank": "santander"
+  },
+  {
+    "id": "4713",
+    "restaurant": "La Isla",
+    "descripcion": "Disfruta de un 50% de descuento todos los martes en La Isla, ubicado en Concón, Valparaíso. Tope de descuento de $50.000.",
+    "titulo": "50%. dcto. ",
+    "descuento": 50,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/048/406/cfeb5cfd-5334-4402-bfa7-ad985e99ca50/original/Logo_LaIsla.png",
+      "https://banco.santander.cl/uploads/000/048/407/e5386b1f-b960-4008-938c-3d814e715c0c/original/detalle_LaIsla.png"
+    ],
+    "days": ["martes"],
+    "locations": ["Concón"],
+    "bank": "santander"
+  },
+  {
+    "id": "4712",
+    "restaurant": "Casa Morera",
+    "descripcion": "Disfruta de un 40% de descuento todos los miércoles en Casa Morera, ubicado en Vitacura, con un tope de descuento de $40.000. Exclusivo para pagos con Tarjetas de Crédito Santander.",
+    "titulo": "40%. dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/052/380/6c9b62e7-2cbb-461a-b29a-36e64a6b6c55/original/Logo_CasaMoreraNuevo.png",
+      "https://banco.santander.cl/uploads/000/052/381/77726991-1200-4e2b-95e9-7c5a6ab77200/original/Detalle_morera.png"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Vitacura"],
+    "bank": "santander"
+  },
+  {
+    "id": "4710",
+    "restaurant": "Sociedad 0306",
+    "descripcion": "Disfruta de un 40% de descuento todos los miércoles en Sociedad 0306, ubicado en Providencia, con un descuento máximo de $40.000 por pedido.",
+    "titulo": "40% dcto. todos los miércoles",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/048/395/a5ab4619-0906-4a7c-95f6-e268a82d7a90/original/Logo_Sociedad0306_1_.png",
+      "https://banco.santander.cl/uploads/000/048/396/e01bffe3-eab5-4ee8-bad7-63ea7a849189/original/Detalle_Sociedad0306.jpg"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Providencia"],
+    "bank": "santander"
+  },
+  {
+    "id": "4709",
+    "restaurant": "Karai",
+    "descripcion": "Disfruta de un 50% de descuento todos los sábados en Karai, ubicado en Las Condes, Santiago. Tope de descuento de $50.000.",
+    "titulo": "50%. dcto. ",
+    "descuento": 50,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/048/397/8c8fe7dd-1a4b-44ed-b772-f7f2c3a3d3da/original/Logo_Karai.png",
+      "https://banco.santander.cl/uploads/000/048/398/45d736e4-d4d4-46fa-8f91-e3ddc67507d8/original/Detalle_Karai.png"
+    ],
+    "days": ["sábado"],
+    "locations": ["Las Condes"],
+    "bank": "santander"
+  },
+  {
+    "id": "4704",
+    "restaurant": "Do Sushi",
+    "descripcion": "Disfruta de un 30% de descuento todos los miércoles en Do Sushi, ubicado en Providencia, Chile. Descuento máximo por pedido de $40.000.",
+    "titulo": "30% dcto. todos los miércoles",
+    "descuento": 30,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/048/383/f1e6b2c4-652c-4d3f-a1a0-665c879e7775/original/Logo_Do_Sushi.png",
+      "https://banco.santander.cl/uploads/000/049/691/81330ac8-4b81-427c-bf2a-ca45313e93fb/original/Detalle_DoSushi.png"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Providencia"],
+    "bank": "santander"
+  },
+  {
+    "id": "4700",
+    "restaurant": "Demencia",
+    "descripcion": "Disfruta de un 40% de descuento todos los miércoles en Vitacura, con un tope de descuento de $40.000. Exclusivo para pagos con Tarjetas de Crédito Santander.",
+    "titulo": "40%. dcto. ",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/048/381/948b6365-ce9c-4675-8dad-534bfbdad615/original/Logo_Demencia.png",
+      "https://banco.santander.cl/uploads/000/048/382/39c6a206-25fc-402f-9ec4-41eafb9da7c6/original/Detalle_Demencia.png"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Vitacura"],
+    "bank": "santander"
+  },
+  {
+    "id": "4672",
+    "restaurant": "Greed Taproom",
+    "descripcion": "Disfruta de un 40% de descuento todos los miércoles en Greed Taproom, ubicado en Osorno. Descuento máximo por pedido de $40.000.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/047/963/e80497be-5c5d-4fe4-be39-09ca3f2a1936/original/logo_greedTaproom-2.jpg",
+      "https://banco.santander.cl/uploads/000/047/964/7b748f97-5f0b-4409-8fe1-a8e7614d5fbc/original/detalle_greedTaproom-2.jpg"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Osorno"],
+    "bank": "santander"
+  },
+  {
+    "id": "4671",
+    "restaurant": "Yadō by Asia",
+    "descripcion": "Disfruta de un 40% de descuento todos los miércoles en Iquique. Descuento máximo por pedido de $40.000.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/047/982/81378914-241a-4289-9cd1-3728f6aecfe3/original/logo2_yado.png",
+      "https://banco.santander.cl/uploads/000/047/983/94bf2f43-6a9f-4485-90b9-5d788916f197/original/detalle-yado.jpg"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Iquique"],
+    "bank": "santander"
+  },
+  {
+    "id": "4668",
+    "restaurant": "YMA",
+    "descripcion": "Disfruta de un 50% de descuento todos los jueves en Vitacura, con un máximo de $50.000 por pedido.",
+    "titulo": "50% dcto.",
+    "descuento": 50,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/047/955/fb158257-5502-4cc6-bc0b-67e08afd9168/original/Logo_YMA.png",
+      "https://banco.santander.cl/uploads/000/047/956/788e03ad-123a-4e72-bf88-656593b4401a/original/Detalle_YMA.png"
+    ],
+    "days": ["jueves"],
+    "locations": ["Vitacura"],
+    "bank": "santander"
+  },
+  {
+    "id": "4610",
+    "restaurant": "Cosecha del Mar",
+    "descripcion": "¡Aprovecha un 40% de descuento todos los viernes en Cosecha del Mar! Válido en Lo Barnechea, La Reina, Puerto Varas y Puerto Natales. Tope de descuento de $100.000.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/047/242/fbf9b8ee-333f-45e1-9935-ac368e3f816c/original/logo_cosecha_del_mar.jpg",
+      "https://banco.santander.cl/uploads/000/047/243/76bd1057-9499-4756-9b3d-38f633c61b6d/original/detalle_cosecha_del_mar_.jpg"
+    ],
+    "days": ["viernes"],
+    "locations": ["Lo Barnechea", "La Reina", "puerto varas", "puerto natales"],
+    "bank": "santander"
+  },
+  {
+    "id": "4575",
+    "restaurant": "Tomata",
+    "descripcion": "Disfruta de un 50% de descuento todos los viernes en Vitacura. Tope de descuento de $50.000.",
+    "titulo": "50%. dcto",
+    "descuento": 50,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/047/022/2910851f-4e87-4f66-8d63-250b59af6c14/original/Logo_TOMATA.jpg",
+      "https://banco.santander.cl/uploads/000/047/023/28b6f49d-badf-43a7-91a4-8c188e6ac819/original/Detalle_TOMATA-09.jpg"
+    ],
+    "days": ["viernes"],
+    "locations": ["Vitacura"],
+    "bank": "santander"
+  },
+  {
+    "id": "4574",
+    "restaurant": "Dominga Nikkei",
+    "descripcion": "Disfruta de un 50% de descuento todos los miércoles en Lo Barnechea. Tope de descuento de $50.000.",
+    "titulo": "50%. dcto",
+    "descuento": 50,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/047/104/d8338db3-818b-4a26-a161-da3f26928ca7/original/Logo_nuevo_Dominga.png",
+      "https://banco.santander.cl/uploads/000/047/109/fb25c56b-5613-4037-b3fa-6c441c78bd6e/original/Detalle_DOMINGA-01.jpg"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Lo Barnechea"],
+    "bank": "santander"
+  },
+  {
+    "id": "4571",
+    "restaurant": "Ceiba",
+    "descripcion": "Disfruta de un 40% de descuento todos los miércoles en Ceiba, ubicado en Lo Barnechea, Metropolitana. Tope de descuento de $40.000.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/047/008/1681591a-15a9-4e72-86f0-748fe04abb86/original/Logo_CEIBA.jpg",
+      "https://banco.santander.cl/uploads/000/047/009/4227390b-7627-49cc-981d-598349d75a36/original/Detalle_CEBIA03.jpg"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Lo Barnechea"],
+    "bank": "santander"
+  },
+  {
+    "id": "4505",
+    "restaurant": "Chili's",
+    "descripcion": "Disfruta de un 40% de descuento todos los miércoles en Chili's, ubicado en Las Condes, Metropolitana. Descuento máximo por pedido de $40.000.",
+    "titulo": "40% dcto. todos los miércoles",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/046/495/54f1bd90-af5a-45da-943a-b6a92c021648/original/Logo_Chilis.jpg",
+      "https://banco.santander.cl/uploads/000/046/496/1f2b08de-e61a-407b-a932-e1e4d6abfcdf/original/Detalle_Chilis.jpg"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Las Condes"],
+    "bank": "santander"
+  },
+  {
+    "id": "4497",
+    "restaurant": "Pescados Capitales",
+    "descripcion": "Disfruta de un 40% de descuento todos los miércoles en Pescados Capitales, ubicado en Vitacura, Santiago. Descuento máximo de $100.000 por pedido.",
+    "titulo": "40% dcto. todos los miércoles",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/046/478/cff87d48-9141-4aa4-82e7-64689547dcc9/original/logo_pescados_Capitales.jpg",
+      "https://banco.santander.cl/uploads/000/046/479/553caef3-d65a-4f3a-a264-2a0390cef363/original/detalle_pescados_capitales.jpg"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Vitacura"],
+    "bank": "santander"
+  },
+  {
+    "id": "4494",
+    "restaurant": "CUK",
+    "descripcion": "Aprovecha un 40% de descuento todos los lunes y miércoles en Vitacura, Las Condes y La Reina.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/046/471/79d9aeef-e336-4b63-99ba-3068824ce627/original/logo_cuk_.png",
+      "https://banco.santander.cl/uploads/000/046/472/c4b49c60-721a-438b-bc31-f6a87f9f71f1/original/detalle_cuk.jpg"
+    ],
+    "days": ["lunes", "miércoles"],
+    "locations": ["Vitacura", "Las Condes", "La Reina"],
+    "bank": "santander"
+  },
+  {
+    "id": "4465",
+    "restaurant": "Kobo Sushi",
+    "descripcion": "Disfruta de un 40% de descuento todos los miércoles en Kobo Sushi, válido en Providencia, Las Condes y San Miguel. Descuento máximo de $40.000.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/046/207/1ddc7e63-d5bb-42c6-98ff-3bb21cf2a116/original/logo_kobo.jpg",
+      "https://banco.santander.cl/uploads/000/046/208/5ff4fbbf-b087-41e4-b592-c29f34120fe3/original/detalle_kobo_1.jpg"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Providencia", "Las Condes", "san miguel"],
+    "bank": "santander"
+  },
+  {
+    "id": "4464",
+    "restaurant": "Local Burger",
+    "descripcion": "Disfruta de un 30% de descuento todos los miércoles en Local Burger, válido en la Región Metropolitana. Descuento máximo de $40.000 por pedido.",
+    "titulo": "30% dcto.",
+    "descuento": 30,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/046/209/4a4cee41-0e9a-4a32-a2b4-5b3abaf3d0e7/original/logo_localburger.jpg",
+      "https://banco.santander.cl/uploads/000/046/210/af6e7478-fd7b-441c-b393-7ae808a423de/original/detalle_localburger.jpg"
+    ],
+    "days": ["miércoles"],
+    "locations": ["metropolitana"],
+    "bank": "santander"
+  },
+  {
+    "id": "4456",
+    "restaurant": "Fork",
+    "descripcion": "Aprovecha un 15% de descuento todos los días en Fork, válido en La Reina, Las Condes, Lo Barnechea, Providencia, Santiago, Macul, Vitacura y Ñuñoa. Descuento máximo de $40.000.",
+    "titulo": "15% dcto. todos los días.",
+    "descuento": 15,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/049/282/c00f7d20-da41-4696-b413-6e301433fb6f/original/Logonuevo_Forknegro.png",
+      "https://banco.santander.cl/uploads/000/051/452/150918e4-7d64-4f94-be44-0320936a7982/original/Detalle_nuevo_Fork.png"
+    ],
+    "days": [
+      "lunes",
+      "martes",
+      "miércoles",
+      "jueves",
+      "viernes",
+      "sábado",
+      "domingo"
+    ],
+    "locations": [
+      "La Reina",
+      "Las Condes",
+      "Lo Barnechea",
+      "Providencia",
+      "Santiago",
+      "macul",
+      "Vitacura",
+      "Ñuñoa"
+    ],
+    "bank": "santander"
+  },
+  {
+    "id": "4450",
+    "restaurant": "Work/Café",
+    "descripcion": "Descuento del 40% todos los lunes y 30% los otros días de la semana. Válido en Las Condes, Vitacura, La Reina, Providencia, Ñuñoa, Santiago, San Joaquín, Huechuraba, Lo Barnechea, Independencia y Maipú.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/046/181/6d308530-1fa2-4099-8eca-b039427cd46c/original/logo2_wk.jpg",
+      "https://banco.santander.cl/uploads/000/052/888/dda3a308-d5db-400d-a715-48149f0fc03e/original/detalle_wk_2.jpg"
+    ],
+    "days": [
+      "lunes",
+      "martes",
+      "miércoles",
+      "jueves",
+      "viernes",
+      "sábado",
+      "domingo"
+    ],
+    "locations": [
+      "Las Condes",
+      "Vitacura",
+      "La Reina",
+      "Providencia",
+      "Ñuñoa",
+      "Santiago",
+      "San Joaquín",
+      "Huechuraba",
+      "Lo Barnechea",
+      "Independencia",
+      "Maipú"
+    ],
+    "bank": "santander"
+  },
+  {
+    "id": "4445",
+    "restaurant": "eCook",
+    "descripcion": "¡Aprovecha un 40% de descuento todos los martes y jueves en Santiago!",
+    "titulo": "40% dcto. en eCook",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/046/170/74fd6133-cbee-4f49-8175-4b24d3a40da1/original/logo_ecook.jpg",
+      "https://banco.santander.cl/uploads/000/049/281/750335f4-879d-44de-9901-98327b0f57dd/original/Detalle_ecook-1.jpg"
+    ],
+    "days": ["martes", "jueves"],
+    "locations": ["metropolitana"],
+    "bank": "santander"
+  },
+  {
+    "id": "4439",
+    "restaurant": "Dominó",
+    "descripcion": "Disfruta un 40% de descuento todos los martes en Dominó, válido en la Región Metropolitana y otras regiones de Chile.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/046/157/97b95bb4-bcb9-47bb-8647-59b6454cfbbb/original/logo_domino.jpg",
+      "https://banco.santander.cl/uploads/000/046/158/06e9cdd8-1a0d-4894-b481-c140429a118a/original/detalle_domino.jpg"
+    ],
+    "days": ["martes"],
+    "locations": [
+      "metropolitana",
+      "Valparaíso",
+      "los lagos",
+      "Antofagasta",
+      "bío-bío"
+    ],
+    "bank": "santander"
+  },
+  {
+    "id": "4428",
+    "restaurant": "CuracaRibs",
+    "descripcion": "Disfruta de un 40% de descuento todos los lunes online en CuracaRibs, válido en la Región Metropolitana. Descuento máximo de $40.000 por pedido.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/047/696/7ba22f3b-640d-4572-a659-50134b022c51/original/logo_actualizado_curacaribs.png",
+      "https://banco.santander.cl/uploads/000/047/975/21e9616a-05ab-4fd0-8ae0-2bfff4e7e2c4/original/detalle_curacaribs.jpg"
+    ],
+    "days": ["lunes"],
+    "locations": ["metropolitana"],
+    "bank": "santander"
+  },
+  {
+    "id": "4410",
+    "restaurant": "Sakura",
+    "descripcion": "Disfruta de un 40% de descuento en Rolls todos los viernes en la Región Metropolitana. Tope de descuento de $40.000.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/049/688/3d252a78-29a9-4af5-a9b7-2f46072ef7b0/original/Logo_Sakuranuevo.png",
+      "https://banco.santander.cl/uploads/000/054/545/2240cfc9-e367-4b13-9f88-a2b74f148732/original/Sakura_fondo.png"
+    ],
+    "days": ["viernes"],
+    "locations": [
+      "Las Condes",
+      "Lo Barnechea",
+      "Ñuñoa",
+      "Vitacura",
+      "La Reina"
+    ],
+    "bank": "santander"
+  },
+  {
+    "id": "4406",
+    "restaurant": "Corrales del Sur",
+    "descripcion": "Disfruta de un 30% de descuento todos los jueves en Corrales del Sur, válido en Vitacura, Providencia, Peñalolen, Temuco, Osorno y Puerto Varas. Descuento máximo de $100.000 por pedido.",
+    "titulo": "30% dcto.",
+    "descuento": 30,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/052/855/d908fee1-31f1-42b4-8026-e4beb2b88254/original/Logonuevo_CorralesdelSur.png",
+      "https://banco.santander.cl/uploads/000/052/856/e78f408f-d092-4e55-bfe3-e293d801c3ca/original/detalle2_corrales_del_sur.jpg"
+    ],
+    "days": ["jueves"],
+    "locations": [
+      "Vitacura",
+      "Providencia",
+      "peñalolén",
+      "Temuco",
+      "Osorno",
+      "puerto varas"
+    ],
+    "bank": "santander"
+  },
+  {
+    "id": "4398",
+    "restaurant": "Burger King",
+    "descripcion": "Disfruta de un 40% de descuento todos los jueves en Burger King, válido en la Región Metropolitana. Tope de descuento: $15.000.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/046/065/7b06054b-0eab-47e4-86a0-79301b1255b8/original/logo_bk.jpg",
+      "https://banco.santander.cl/uploads/000/051/640/7e26c5b3-4720-4489-bf38-eca82e6b0470/original/Detallenuevo_bk.png"
+    ],
+    "days": ["jueves"],
+    "locations": [
+      "Las Condes",
+      "Santiago",
+      "La Reina",
+      "Providencia",
+      "Vitacura",
+      "Ñuñoa",
+      "peñalolén",
+      "macul",
+      "Huechuraba",
+      "Lo Barnechea",
+      "Independencia",
+      "san miguel",
+      "la florida",
+      "maipú",
+      "quilicura"
+    ],
+    "bank": "santander"
+  },
+  {
+    "id": "4390",
+    "restaurant": "Melt Pizzas",
+    "descripcion": "Aprovecha un 40% de descuento todos los martes en Melt Pizzas, válido en la Región Metropolitana y otras regiones de Chile. Tope de descuento: $40.000.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/052/889/28ffd53b-788e-4d55-b47f-675df3b7f92c/original/Logo_ActualizadoMelt.png",
+      "https://banco.santander.cl/uploads/000/052/890/fc59c4d1-424d-4ffa-ba6f-978abb0bdeb4/original/detalle_melt.jpg"
+    ],
+    "days": ["martes"],
+    "locations": [
+      "metropolitana",
+      "maule",
+      "o'higgins",
+      "bío-bío",
+      "Antofagasta",
+      "Valparaíso",
+      "araucanía"
+    ],
+    "bank": "santander"
+  },
+  {
+    "id": "4388",
+    "restaurant": "Malva Loca",
+    "descripcion": "Disfruta de un 40% de descuento todos los lunes en Malva Loca, ubicado en Vitacura, con un descuento máximo de $100.000 por pedido.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/046/038/8dc39b99-4d6a-4f63-a5f8-cb917bcb54f7/original/Logo_Malva_Loca.jpg",
+      "https://banco.santander.cl/uploads/000/046/039/c35c8c14-6cf1-4975-8448-179d83802eb7/original/Detalla_Malva_Loca_1.jpg"
+    ],
+    "days": ["lunes"],
+    "locations": ["Vitacura"],
+    "bank": "santander"
+  },
+  {
+    "id": "4372",
+    "restaurant": "Barrica 94",
+    "descripcion": "Disfruta de un 40% de descuento todos los jueves en Barrica 94, ubicado en Lo Barnechea, Metropolitana. Descuento máximo por pedido de $100.000.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/046/014/4ec41ed3-1fd8-473f-9d01-69b26cb05fa5/original/logo_Barrica_94.jpg",
+      "https://banco.santander.cl/uploads/000/046/015/a9b50c0a-e08a-4f35-ac16-2c02c9153b8b/original/detalle_barrica_94.jpg"
+    ],
+    "days": ["jueves"],
+    "locations": ["Lo Barnechea"],
+    "bank": "santander"
+  },
+  {
+    "id": "4363",
+    "restaurant": "Aquality",
+    "descripcion": "¡Obtén un 40% de descuento todos los martes en Aquality! Válido en la Región Metropolitana, con un descuento máximo de $100.000 por pedido.",
+    "titulo": "40% dcto.",
+    "descuento": 40,
+    "imagenes": [
+      "https://banco.santander.cl/uploads/000/045/992/2e5a2c6a-c82f-49ac-9699-9929c85a2478/original/logo_aquality.jpg",
+      "https://banco.santander.cl/uploads/000/045/993/fe7d96f6-d0bc-432e-8c6e-36282da0299c/original/detalle_aquality.jpg"
+    ],
+    "days": ["martes"],
+    "locations": ["Región Metropolitana"],
+    "bank": "santander"
+  }
+]
