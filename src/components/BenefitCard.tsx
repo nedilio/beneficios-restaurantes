@@ -1,5 +1,5 @@
 import React from "react";
-import { MapPin, Calendar, Percent, Search } from "lucide-react";
+import { MapPin, Calendar, Percent, Search, Map } from "lucide-react";
 import { Benefit } from "../types";
 import { ImageCarousel } from "./ImageCarousel";
 
@@ -100,16 +100,21 @@ export const BenefitCard: React.FC<BenefitCardProps> = ({ benefit }) => {
             </a>
           </span>
         </div>
-        <a
-          href={`https://www.google.com/maps/search/${encodeURIComponent(
-            benefit.restaurant.replace("- Descuento", "").trim()
-          )}`}
-          className={`${colors.accent} hover:underline`}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          buscar en maps
-        </a>
+        <div className="flex items-center text-sm text-gray-500">
+          <Map size={14} className={`mr-1 ${colors.accent}`} />
+          <span>
+            <a
+              href={`https://www.google.com/maps/search/${encodeURIComponent(
+                benefit.restaurant.replace("- Descuento", "").trim()
+              )}`}
+              className={`${colors.accent} hover:underline`}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              buscar en maps
+            </a>
+          </span>
+        </div>
       </div>
     </div>
   );

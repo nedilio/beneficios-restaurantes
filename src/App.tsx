@@ -86,12 +86,12 @@ function App() {
           <div className="flex items-center justify-center mb-4">
             <CreditCard className="text-blue-600 mr-3" size={40} />
             <h1 className="text-4xl font-bold bg-gradient-to-r from-blue-600 to-amber-600 bg-clip-text text-transparent">
-              BCI Credit Card Benefits
+              Beneficios en Restaurantes con tu banco
             </h1>
           </div>
           <p className="text-gray-600 max-w-2xl mx-auto">
-            Discover exclusive discounts and offers available with your BCI
-            credit card. Save money at your favorite restaurants and locations.
+            Encuentra más rapido tus beneficios en restaurantes, ofertas y
+            ubicaciones con nuestra herramienta de búsqueda y filtros.
           </p>
         </div>
 
@@ -101,14 +101,14 @@ function App() {
             <SearchBar
               value={searchTerm}
               onChange={setSearchTerm}
-              placeholder="Search for restaurants, offers, or locations..."
+              placeholder="Buscar por restaurante o ubicación"
             />
           </div>
 
           <div className="grid md:grid-cols-2 gap-6">
             {uniqueDays.length > 0 && (
               <FilterChips
-                label="Days"
+                label="Días de la semana"
                 options={uniqueDays.sort((a, b) => {
                   return ordenSemana.indexOf(a) - ordenSemana.indexOf(b);
                 })}
@@ -118,7 +118,7 @@ function App() {
             )}
             {uniqueLocations.length > 0 && (
               <FilterChips
-                label="Locations"
+                label="Ubicaciones"
                 options={uniqueLocations}
                 selected={selectedLocations}
                 onChange={setSelectedLocations}
@@ -126,7 +126,7 @@ function App() {
             )}
             {uniqueBanks.length > 0 && (
               <FilterChips
-                label="Banks"
+                label="Bancos"
                 options={uniqueBanks}
                 selected={selectedBanks}
                 onChange={setSelectedBanks}
@@ -138,7 +138,7 @@ function App() {
         {/* Results Summary */}
         <div className="mb-6">
           <p className="text-gray-600">
-            Showing {filteredBenefits.length} of {benefits.length} benefits
+            Mostrando {filteredBenefits.length} de {benefits.length} beneficios
           </p>
         </div>
 
