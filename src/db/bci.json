@@ -1,186 +1,47 @@
 [
   {
-    "id": "685da0a15409f5a6aee0f639",
-    "restaurant": "Dusa VIVO Los Trapenses - Descuento",
-    "descripcion": "Aprovecha un 20% de descuento en Dusa VIVO Los Trapenses. Solo para compras presenciales. Válido desde el viernes hasta el domingo.",
-    "titulo": "Descuento del 20% en Dusa VIVO Los Trapenses",
-    "descuento": 20,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Dusa-VIVO-Los-Trapen_aee0f639_19-33_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Dusa-VIVO-Los-Trapen_aee0f639_19-33_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Dusa-VIVO-Los-Trapen_aee0f639_19-33_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Dusa-VIVO-Los-Trapen_aee0f639_19-33_4.png"
-    ],
-    "days": ["viernes", "sábado", "domingo"],
-    "locations": ["los trapenses"],
-    "bank": "bci"
-  },
-  {
-    "id": "67656ea69eda049aa800828c",
-    "restaurant": "Burger King",
-    "descripcion": "Disfruta de un 40% de descuento en Burger King, con un tope máximo de $7.000. Válido solo los miércoles en Chile.",
-    "titulo": "Descuento en Burger King",
+    "id": "6888f9541852d2ad1f0ba09d",
+    "restaurant": "Holy Moly Lastarria",
+    "descripcion": "Disfruta de un 40% de cashback todos los jueves en Holy Moly Lastarria, con un tope de $40.000. Aprovecha esta oferta en Santiago.",
+    "titulo": "Todos los jueves",
     "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Burger-King---Descue_a800828c_13-18_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Burger-King---Descue_a800828c_13-18_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Burger-King---Descue_a800828c_13-18_3.png"
-    ],
-    "days": ["miércoles"],
-    "locations": ["Chile"],
-    "bank": "bci"
-  },
-  {
-    "id": "67657501bf7869176fafb5e5",
-    "restaurant": "Papa Johns - Descuento",
-    "descripcion": "Disfruta de un 40% de descuento en Papa John's todos los miércoles en Chile, con un monto mínimo de compra de $20.000.",
-    "titulo": "Pizza con el mejor sabor e ingredientes de calidad en masa tradicional o delgada",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Papa-Johns---Descuen_6fafb5e5_13-45_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Papa-Johns---Descuen_6fafb5e5_13-45_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Papa-Johns---Descuen_6fafb5e5_13-45_3.png"
-    ],
-    "days": ["miércoles"],
-    "locations": ["Chile"],
-    "bank": "bci"
-  },
-  {
-    "id": "68192dee3106a925becf7809",
-    "restaurant": "Black Forest",
-    "descripcion": "Recibe hasta un 40% de cashback todos los miércoles en Pucón al pagar con tus tarjetas Bci. Tope de $40.000.",
-    "titulo": "Todos los miércoles - Pucón",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Black-Forest_becf7809_21-30_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Black-Forest_becf7809_21-30_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Black-Forest_becf7809_21-30_3.png"
-    ],
-    "days": ["miércoles"],
-    "locations": ["Pucón"],
-    "bank": "bci"
-  },
-  {
-    "id": "6765832f28717b8840280c66",
-    "restaurant": "Mamut - Descuento",
-    "descripcion": "Descuento del 40% en Mamut - Descuento todos los viernes, con un tope máximo de $30.000. Válido en Chile.",
-    "titulo": "Descuento del 40%",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Mamut---Descuento_40280c66_14-46_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Mamut---Descuento_40280c66_14-46_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Mamut---Descuento_40280c66_14-46_3.png"
-    ],
-    "days": ["viernes"],
-    "locations": ["Chile"],
-    "bank": "bci"
-  },
-  {
-    "id": "676d74054f529f0586771f71",
-    "restaurant": "Latin Grill - Descuento",
-    "descripcion": "Disfruta de un 50% de descuento en Latin Grill - Descuento, válido todos los jueves en Las Condes, solo con Tarjetas de Crédito Bci.",
-    "titulo": "Jueves - Las Condes",
-    "descuento": 50,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Latin-Grill---Descue_86771f71_15-19_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Latin-Grill---Descue_86771f71_15-19_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Latin-Grill---Descue_86771f71_15-19_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Latin-Grill---Descue_86771f71_15-19_4.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Holy-Moly-Lastarria_1f0ba09d_16-39_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Holy-Moly-Lastarria_1f0ba09d_16-39_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Holy-Moly-Lastarria_1f0ba09d_16-39_3.png"
     ],
     "days": ["jueves"],
-    "locations": ["Las Condes"],
+    "locations": ["santiago"],
     "bank": "bci"
   },
   {
-    "id": "676d776605d94d7d6d3400f6",
-    "restaurant": "La Cocina de Javier",
-    "descripcion": "Descuento del 40% en La Cocina de Javier, válido todos los jueves en Vitacura, con un tope máximo de $40.000 por cliente.",
-    "titulo": "Jueves - Vitacura",
+    "id": "6889213e197d7b3745d04a67",
+    "restaurant": "Holy Moly Tobalaba",
+    "descripcion": "Disfruta de un 40% de cashback todos los jueves en Holy Moly Tobalaba, con un tope de $40.000. Aprovecha esta oferta en Santiago.",
+    "titulo": "Todos los jueves",
     "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Cocina-de-Javier_6d3400f6_15-33_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Cocina-de-Javier_6d3400f6_15-33_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Cocina-de-Javier_6d3400f6_15-33_3.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Holy-Moly-Tobalaba_45d04a67_19-30_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Holy-Moly-Tobalaba_45d04a67_19-30_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Holy-Moly-Tobalaba_45d04a67_19-30_3.png"
     ],
     "days": ["jueves"],
-    "locations": ["Vitacura"],
+    "locations": ["santiago"],
     "bank": "bci"
   },
   {
-    "id": "676e4f5c1e79cd442d60980c",
-    "restaurant": "Cuerovaca - Descuento",
-    "descripcion": "Disfruta de un 40% de descuento en Cuerovaca - Descuento, válido todos los viernes en Vitacura, con un tope máximo de $40.000 por cliente.",
-    "titulo": "Viernes - Vitacura",
+    "id": "688ae3c6da54a6221373438c",
+    "restaurant": "Papa John's",
+    "descripcion": "Disfruta de un 40% de descuento todos los miércoles en Papa John's al pagar con Tarjeta de Crédito Bci. Aplica en todo Chile con un monto mínimo de compra de $20.000.",
+    "titulo": "Descuento del 40% en Papa John's",
     "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cuerovaca---Descuent_2d60980c_6-55_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cuerovaca---Descuent_2d60980c_6-55_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cuerovaca---Descuent_2d60980c_6-55_3.png"
-    ],
-    "days": ["viernes"],
-    "locations": ["Vitacura"],
-    "bank": "bci"
-  },
-  {
-    "id": "676e610f04714340818b2ab6",
-    "restaurant": "Ambbar Restobar - Descuentos",
-    "descripcion": "Descuento del 40% en Ambbar Restobar en Antofagasta, con un tope máximo de $40.000. Solo los miércoles, pagando con Tarjetas de Crédito Bci.",
-    "titulo": "Miércoles - Antofagasta",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ambbar-Restobar---De_818b2ab6_8-10_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ambbar-Restobar---De_818b2ab6_8-10_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ambbar-Restobar---De_818b2ab6_8-10_3.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Papa-Johns---Descuen_1373438c_3-32_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Papa-Johns---Descuen_1373438c_3-32_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Papa-Johns---Descuen_1373438c_3-32_3.png"
     ],
     "days": ["miércoles"],
-    "locations": ["Antofagasta"],
-    "bank": "bci"
-  },
-  {
-    "id": "676e62061e79cd1867609b07",
-    "restaurant": "Jeró Bistró - Descuento",
-    "descripcion": "Disfruta de un 40% de descuento en Jeró Bistró todos los viernes, con un tope máximo de $40.000. Válido solo en compras presenciales en Chile.",
-    "titulo": "Viernes - Maitencillos",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Jer%C3%B3-Bistr%C3%B3---Descue_67609b07_13-6_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Jer%C3%B3-Bistr%C3%B3---Descue_67609b07_13-6_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Jer%C3%B3-Bistr%C3%B3---Descue_67609b07_13-6_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Jer%C3%B3-Bistr%C3%B3---Descue_67609b07_13-6_4.png"
-    ],
-    "days": ["viernes"],
-    "locations": ["Chile"],
-    "bank": "bci"
-  },
-  {
-    "id": "676e71ce818d9c2c92bafccb",
-    "restaurant": "Toro Bayo - Descuento",
-    "descripcion": "Aprovecha un 40% de descuento en Toro Bayo, válido solo para compras presenciales en Talca, con un tope máximo de $40.000. Solicita el descuento al momento de pagar con tu Tarjeta de Crédito Bci.",
-    "titulo": "Viernes - Talca",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Toro-Bayo---Descuent_92bafccb_9-22_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Toro-Bayo---Descuent_92bafccb_9-22_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Toro-Bayo---Descuent_92bafccb_9-22_3.png"
-    ],
-    "days": ["viernes"],
-    "locations": ["talca"],
-    "bank": "bci"
-  },
-  {
-    "id": "67a3898464d14372e4d37f11",
-    "restaurant": "Café Med - Descuento",
-    "descripcion": "Disfruta de un 50% de descuento en Café Med - Descuento todos los sábados en Las Condes, Chile. Aplica solo para compras presenciales con Tarjetas de Crédito Bci.",
-    "titulo": "Todos los sábados - Las Condes",
-    "descuento": 50,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Caf%C3%A9-Med---Descuento_e4d37f11_15-53_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Caf%C3%A9-Med---Descuento_e4d37f11_15-53_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Caf%C3%A9-Med---Descuento_e4d37f11_15-53_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Caf%C3%A9-Med---Descuento_e4d37f11_15-53_4.png"
-    ],
-    "days": ["sábado"],
-    "locations": ["Las Condes"],
+    "locations": ["todo chile"],
     "bank": "bci"
   },
   {
@@ -204,460 +65,314 @@
       "sábado",
       "domingo"
     ],
-    "locations": ["Santiago"],
+    "locations": ["santiago"],
     "bank": "bci"
   },
   {
-    "id": "67c20a15aa2a7c569528a111",
-    "restaurant": "Santa Brasa VIVO Los Trapenses",
-    "descripcion": "Descuento del 40% en Santa Brasa VIVO Los Trapenses, válido solo los viernes, con un tope máximo de $40.000 por cliente.",
-    "titulo": "Viernes - Los Barnechea",
+    "id": "6888d55197566e17da63a50b",
+    "restaurant": "Black Forest",
+    "descripcion": "Aprovecha un cashback del 40% todos los miércoles, con un tope de $40.000, en Black Forest. Disponible en Chile.",
+    "titulo": "Todos los Miércoles",
     "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Santa-Brasa-VIVO-Los_9528a111_16-3_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Santa-Brasa-VIVO-Los_9528a111_16-3_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Santa-Brasa-VIVO-Los_9528a111_16-3_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Santa-Brasa-VIVO-Los_9528a111_16-3_4.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Black-Forest_da63a50b_14-6_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Black-Forest_da63a50b_14-6_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Black-Forest_da63a50b_14-6_3.png"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Chile"],
+    "bank": "bci"
+  },
+  {
+    "id": "6888da4ab255b48f1644e3dc",
+    "restaurant": "DToros",
+    "descripcion": "Aprovecha un 40% de cashback todos los jueves en DToros, con un tope de $40.000. Disponible en Chile.",
+    "titulo": "Todos los jueves",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/DToros_1644e3dc_14-29_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/DToros_1644e3dc_14-29_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/DToros_1644e3dc_14-29_3.png"
+    ],
+    "days": ["jueves"],
+    "locations": ["Chile"],
+    "bank": "bci"
+  },
+  {
+    "id": "688a5035c1bc7defa8422780",
+    "restaurant": "La Cocina de Javier",
+    "descripcion": "Disfruta de un 40% de descuento en La Cocina de Javier, válido todos los jueves en Vitacura, con un tope máximo de $40.000 por cliente.",
+    "titulo": "Jueves - Vitacura",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Cocina-de-Javier_a8422780_17-2_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Cocina-de-Javier_a8422780_17-2_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Cocina-de-Javier_a8422780_17-2_3.png"
+    ],
+    "days": ["jueves"],
+    "locations": ["vitacura"],
+    "bank": "bci"
+  },
+  {
+    "id": "688a519b60c33d201e09e486",
+    "restaurant": "Draft House - Mall Sport",
+    "descripcion": "Disfruta de un 30% de descuento todos los miércoles en Draft House - Mall Sport, solo con tu tarjeta BCI.",
+    "titulo": "Todos los Miércoles",
+    "descuento": 30,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Draft-House---Mall-S_1e09e486_17-8_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Draft-House---Mall-S_1e09e486_17-8_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Draft-House---Mall-S_1e09e486_17-8_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Draft-House---Mall-S_1e09e486_17-8_4.png"
+    ],
+    "days": ["miércoles"],
+    "locations": ["las condes"],
+    "bank": "bci"
+  },
+  {
+    "id": "688a5bd960c33d632209f92c",
+    "restaurant": "Mamut - Descuento",
+    "descripcion": "Descuento del 40% en todos los locales de Mamut los viernes, con un tope máximo de $30.000. Válido en diversas localidades de Chile.",
+    "titulo": "Descuento del 40% los viernes",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Mamut---Descuento_2209f92c_17-54_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Mamut---Descuento_2209f92c_17-54_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Mamut---Descuento_2209f92c_17-54_3.png"
     ],
     "days": ["viernes"],
+    "locations": [
+      "huechuraba",
+      "peñalolén",
+      "concepción",
+      "maipú",
+      "punta arenas",
+      "la florida",
+      "cerrillos",
+      "antofagasta",
+      "puente alto",
+      "la reina",
+      "curicó",
+      "san miguel",
+      "san bernardo"
+    ],
+    "bank": "bci"
+  },
+  {
+    "id": "688b087eaa90fbe2e9eb15dd",
+    "restaurant": "Ambrosia Restaurant",
+    "descripcion": "Disfruta de un 40% de descuento en Ambrosia Restaurant en Vitacura, con un tope máximo de $40.000 por cliente. Solo los miércoles.",
+    "titulo": "Miércoles - Vitacura",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ambrosia-Restaurant_e9eb15dd_6-9_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ambrosia-Restaurant_e9eb15dd_6-9_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ambrosia-Restaurant_e9eb15dd_6-9_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ambrosia-Restaurant_e9eb15dd_6-9_4.png"
+    ],
+    "days": ["miércoles"],
+    "locations": ["vitacura"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b093dd313d68206d85c9d",
+    "restaurant": "Bar Enigma - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Bar Enigma, válido solo los jueves en Providencia, con un tope máximo de $20.000 por cliente.",
+    "titulo": "Jueves - Providencia",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-Enigma---Descuen_06d85c9d_6-12_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-Enigma---Descuen_06d85c9d_6-12_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-Enigma---Descuen_06d85c9d_6-12_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-Enigma---Descuen_06d85c9d_6-12_4.png"
+    ],
+    "days": ["jueves"],
+    "locations": ["providencia"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b09f235886d4708719d54",
+    "restaurant": "Barrica 94 - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Barrica 94, Lo Barnechea, con un tope máximo de $40.000. Solo los sábados.",
+    "titulo": "Sábado - Lo Barnechea",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Barrica-94---Descuen_08719d54_6-15_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Barrica-94---Descuen_08719d54_6-15_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Barrica-94---Descuen_08719d54_6-15_3.png"
+    ],
+    "days": ["sábado"],
+    "locations": ["lo barnechea"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b0aa4d313d698ccd85d17",
+    "restaurant": "ConserBar - Descuento",
+    "descripcion": "Disfruta un 40% de descuento en ConserBar, válido solo los jueves en Providencia, con un tope máximo de $40.000 por cliente.",
+    "titulo": "Jueves - Barrio Italia",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/ConserBar---Descuent_ccd85d17_6-18_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/ConserBar---Descuent_ccd85d17_6-18_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/ConserBar---Descuent_ccd85d17_6-18_3.png"
+    ],
+    "days": ["jueves"],
+    "locations": ["providencia"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b0bbacf418e649438d673",
+    "restaurant": "Chueca Bar - Descuento",
+    "descripcion": "Disfruta de un 20% de descuento en Chueca Bar - Descuento, válido los martes, miércoles y jueves en Providencia, con un tope máximo de $40.000 por cliente.",
+    "titulo": "Martes - Miércoles y Jueves - Providencia",
+    "descuento": 20,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Chueca-Bar---Descuen_9438d673_6-22_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Chueca-Bar---Descuen_9438d673_6-22_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Chueca-Bar---Descuen_9438d673_6-22_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Chueca-Bar---Descuen_9438d673_6-22_4.png"
+    ],
+    "days": ["martes", "miércoles", "jueves"],
+    "locations": ["providencia"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b0cb0da54a634a8735cb1",
+    "restaurant": "Bar Enigma - Descuento",
+    "descripcion": "Disfruta de un 20% de descuento en Bar Enigma, válido solo los miércoles en Providencia, con un tope máximo de $40.000 por cliente.",
+    "titulo": "Miércoles - Providencia",
+    "descuento": 20,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-Enigma---Descuen_a8735cb1_6-26_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-Enigma---Descuen_a8735cb1_6-26_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-Enigma---Descuen_a8735cb1_6-26_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-Enigma---Descuen_a8735cb1_6-26_4.png"
+    ],
+    "days": ["miércoles"],
+    "locations": ["providencia"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b0d739237c90059effd2b",
+    "restaurant": "Bar Liguria - Descuento",
+    "descripcion": "Disfruta de un 20% de descuento en Bar Liguria en Providencia, con un tope máximo de $40.000. Válido solo los martes y miércoles.",
+    "titulo": "Martes y Miércoles - Providencia - Manuel Montt - Lastarria",
+    "descuento": 20,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-Liguria---Descue_59effd2b_6-30_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-Liguria---Descue_59effd2b_6-30_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-Liguria---Descue_59effd2b_6-30_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-Liguria---Descue_59effd2b_6-30_4.png"
+    ],
+    "days": ["martes", "miércoles"],
+    "locations": ["providencia"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b0e16ddbfef15a5853948",
+    "restaurant": "Danubio Azul - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Danubio Azul, Las Condes. Descuento máximo de $40.000 por cliente. Solo los miércoles.",
+    "titulo": "Miércoles - Las Condes",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Danubio-Azul---Descu_a5853948_6-32_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Danubio-Azul---Descu_a5853948_6-32_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Danubio-Azul---Descu_a5853948_6-32_3.png"
+    ],
+    "days": ["miércoles"],
+    "locations": ["las condes"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b10dbfa62fbf9a90e3de1",
+    "restaurant": "Ceiba - Descuento",
+    "descripcion": "Disfruta de un 50% de descuento en Ceiba - Descuento en Lo Barnechea, Chile. Aplica solo para compras presenciales con tarjetas Bci Visa Signature, Visa Infinite y Mastercard Black.",
+    "titulo": "Miércoles - Lo Barnechea",
+    "descuento": 50,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ceiba---Descuento_a90e3de1_6-44_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ceiba---Descuento_a90e3de1_6-44_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ceiba---Descuento_a90e3de1_6-44_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ceiba---Descuento_a90e3de1_6-44_4.png"
+    ],
+    "days": ["miércoles"],
     "locations": ["Lo Barnechea"],
     "bank": "bci"
   },
   {
-    "id": "67d99a03b0aeb64a29ddf7a9",
-    "restaurant": "Dominga Bistró",
-    "descripcion": "Descuento del 40% en Dominga Bistró, válido todos los miércoles en Iquique y Valdivia, con un tope máximo de $40.000 por cliente.",
-    "titulo": "Todos los Miércoles",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Dominga-Bistr%C3%B3-Iquiq_29ddf7a9_16-6_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Dominga-Bistr%C3%B3-Iquiq_29ddf7a9_16-6_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Dominga-Bistr%C3%B3-Iquiq_29ddf7a9_16-6_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Dominga-Bistr%C3%B3-Iquiq_29ddf7a9_16-6_4.png"
-    ],
-    "days": ["miércoles"],
-    "locations": ["Iquique", "valdivia"],
-    "bank": "bci"
-  },
-  {
-    "id": "67e60900a0cf9c7849aa24a1",
-    "restaurant": "Fuente Peruana - Descuento",
-    "descripcion": "Descuento del 40% en Iquique, con un tope máximo de $40.000. Aplica solo los miércoles con Tarjetas de Crédito Bci.",
-    "titulo": "Miércoles - Iquique - Cavancha",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Fuente-Peruana---De_49aa24a1_23-1_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Fuente-Peruana---De_49aa24a1_23-1_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Fuente-Peruana---De_49aa24a1_23-1_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Fuente-Peruana---De_49aa24a1_23-1_4.png"
-    ],
-    "days": ["miércoles"],
-    "locations": ["Iquique"],
-    "bank": "bci"
-  },
-  {
-    "id": "67e60e13a0cf9c2ce4aa2d0e",
-    "restaurant": "Bar La Mamba",
-    "descripcion": "Disfruta de un 40% de descuento en Bar La Mamba, ubicado en Valparaíso. Aplica solo los jueves con un tope máximo de $40.000.",
-    "titulo": "Jueves - Valparaiso",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-La-Mamba_e4aa2d0e_23-6_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-La-Mamba_e4aa2d0e_23-6_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-La-Mamba_e4aa2d0e_23-6_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-La-Mamba_e4aa2d0e_23-6_4.png"
-    ],
-    "days": ["jueves"],
-    "locations": ["Valparaíso"],
-    "bank": "bci"
-  },
-  {
-    "id": "67e60f1da0cf9c6154aa2eef",
-    "restaurant": "Bocas del Mar - Descuento",
-    "descripcion": "Aprovecha un 40% de descuento en Bocas del Mar en Pichilemu, con un tope máximo de $40.000. Solo válido para compras presenciales con Tarjetas de Crédito Bci.",
-    "titulo": "Viernes - Pichilemu",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bocas-del-Mar---Desc_54aa2eef_2-53_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bocas-del-Mar---Desc_54aa2eef_2-53_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bocas-del-Mar---Desc_54aa2eef_2-53_3.png"
-    ],
-    "days": ["viernes"],
-    "locations": ["pichilemu"],
-    "bank": "bci"
-  },
-  {
-    "id": "67e615b93217b04abf55e791",
-    "restaurant": "Gaucho - Descuento",
-    "descripcion": "Descuento del 40% en el total de la cuenta, válido todos los jueves en viña del mar, con un tope máximo de $40.000 por cliente.",
-    "titulo": "Jueves - viña del mar",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Gaucho---Descuento_bf55e791_3-21_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Gaucho---Descuento_bf55e791_3-21_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Gaucho---Descuento_bf55e791_3-21_3.png"
-    ],
-    "days": ["jueves"],
-    "locations": ["viña del mar"],
-    "bank": "bci"
-  },
-  {
-    "id": "67e6176427fe25623998ae75",
-    "restaurant": "Gracielo",
-    "descripcion": "Disfruta un 40% de descuento en Gracielo, ubicado en Providencia, Chile. Descuento máximo de $40.000 por cliente, válido solo los miércoles.",
-    "titulo": "Miércoles - Providencia",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Gracielo---Descuento_3998ae75_3-28_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Gracielo---Descuento_3998ae75_3-28_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Gracielo---Descuento_3998ae75_3-28_3.png"
-    ],
-    "days": ["miércoles"],
-    "locations": ["Providencia"],
-    "bank": "bci"
-  },
-  {
-    "id": "67e6297341fca431b29a2ae6",
-    "restaurant": "Inquilino - Descuento",
-    "descripcion": "Disfruta de un 40% de descuento en Inquilino - Descuento en Valparaíso, válido todos los viernes, con un tope máximo de $40.000 por cliente al pagar con Tarjetas de Crédito Bci.",
-    "titulo": "Viernes - Valparaíso",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Inquilino---Descuent_b29a2ae6_23-11_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Inquilino---Descuent_b29a2ae6_23-11_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Inquilino---Descuent_b29a2ae6_23-11_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Inquilino---Descuent_b29a2ae6_23-11_4.png"
-    ],
-    "days": ["viernes"],
-    "locations": ["Valparaíso"],
-    "bank": "bci"
-  },
-  {
-    "id": "67e6312541fca4b12b9a2f3a",
-    "restaurant": "La Mulata - Descuento",
-    "descripcion": "Descuento del 40% en La Mulata, Iquique, con un tope de $40.000. Solo los jueves.",
-    "titulo": "Jueves - Iquique - Tarapacá",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Mulata---Descuent_2b9a2f3a_5-18_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Mulata---Descuent_2b9a2f3a_5-18_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Mulata---Descuent_2b9a2f3a_5-18_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Mulata---Descuent_2b9a2f3a_5-18_4.png"
-    ],
-    "days": ["jueves"],
-    "locations": ["Iquique"],
-    "bank": "bci"
-  },
-  {
-    "id": "67e63289ee7b5f2b90b49bd9",
-    "restaurant": "La Santoria - Descuento",
-    "descripcion": "Disfruta de un 40% de descuento en La Santoria, ubicado en Providencia, con un tope máximo de $40.000. Solo los lunes, al pagar con tus Tarjetas Bci.",
-    "titulo": "Lunes - Providencia",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Santoria---Descue_90b49bd9_23-15_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Santoria---Descue_90b49bd9_23-15_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Santoria---Descue_90b49bd9_23-15_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Santoria---Descue_90b49bd9_23-15_4.png"
-    ],
-    "days": ["lunes"],
-    "locations": ["Providencia"],
-    "bank": "bci"
-  },
-  {
-    "id": "67eabf6dccafa7b116cd8dfa",
-    "restaurant": "PadThai - Descuento",
-    "descripcion": "Disfruta un 40% de descuento en PadThai - Descuento, válido solo en Providencia, Chile. Aplica solo con tarjetas Bci Visa Signature, Visa Infinite y Mastercard Black.",
-    "titulo": "Martes - Providencia.",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/PadThai---Descuento_16cd8dfa_16-14_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/PadThai---Descuento_16cd8dfa_16-14_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/PadThai---Descuento_16cd8dfa_16-14_3.png"
-    ],
-    "days": ["martes"],
-    "locations": ["Providencia"],
-    "bank": "bci"
-  },
-  {
-    "id": "67eabfdf1e20875083e675e5",
-    "restaurant": "PadThai - Descuento",
-    "descripcion": "Disfruta de un 20% de descuento en PadThai - Descuento en Providencia, con un tope máximo de $40.000. Solo los jueves.",
-    "titulo": "Jueves - Providencia",
-    "descuento": 20,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/PadThai---Descuento_83e675e5_16-16_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/PadThai---Descuento_83e675e5_16-16_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/PadThai---Descuento_83e675e5_16-16_3.png"
-    ],
-    "days": ["jueves"],
-    "locations": ["Providencia"],
-    "bank": "bci"
-  },
-  {
-    "id": "67eaca1172fb8da86caa1e9b",
-    "restaurant": "Rocker Burger - Descuento",
-    "descripcion": "Disfruta de un 40% de descuento en Rocker Burger en Talca, válido todos los miércoles, con un tope máximo de $40.000 por cliente. Aplica solo para compras presenciales con Tarjetas de Crédito Bci.",
-    "titulo": "Miércoles - Talca",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Rocker-Burger---Desc_6caa1e9b_17-0_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Rocker-Burger---Desc_6caa1e9b_17-0_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Rocker-Burger---Desc_6caa1e9b_17-0_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Rocker-Burger---Desc_6caa1e9b_17-0_4.png"
-    ],
-    "days": ["miércoles"],
-    "locations": ["talca"],
-    "bank": "bci"
-  },
-  {
-    "id": "67eb703c6779757472a55c45",
-    "restaurant": "Rossie La Loca - Descuento",
-    "descripcion": "Descuento del 40% en Rossie La Loca - Descuento, válido todos los miércoles en Providencia, con un tope máximo de $40.000 por cliente.",
-    "titulo": "Miércoles - La Reina - Providencia",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Rossie-La-Loca---Des_72a55c45_23-20_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Rossie-La-Loca---Des_72a55c45_23-20_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Rossie-La-Loca---Des_72a55c45_23-20_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Rossie-La-Loca---Des_72a55c45_23-20_4.png"
-    ],
-    "days": ["miércoles"],
-    "locations": ["Providencia"],
-    "bank": "bci"
-  },
-  {
-    "id": "67eb7302677975efb2a55da9",
-    "restaurant": "Sanguchería Gorilas",
-    "descripcion": "Descuento del 40% en Sanguchería Gorilas, válido todos los miércoles en viña del mar, Concón, Curauma, Quillota y Quilpué, con un tope máximo de $40.000.",
-    "titulo": "Miércoles - viña del mar - Concón - Curauma - Quillota - Quilpué - Las Condes",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sangucher%C3%ADa-Gorilas_b2a55da9_23-21_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sangucher%C3%ADa-Gorilas_b2a55da9_23-21_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sangucher%C3%ADa-Gorilas_b2a55da9_23-21_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sangucher%C3%ADa-Gorilas_b2a55da9_23-21_4.png"
-    ],
-    "days": ["miércoles"],
-    "locations": ["viña del mar", "Concón", "curauma", "quillota", "quilpué"],
-    "bank": "bci"
-  },
-  {
-    "id": "6811df4432bc3039660f7d6e",
-    "restaurant": "Santa Brasa Alonso de Cordova - Descuento",
-    "descripcion": "Disfruta de un 40% de descuento en Santa Brasa Alonso de Cordova, válido todos los viernes, con un tope máximo de $40.000. Aplica solo en Vitacura, Chile.",
-    "titulo": "Viernes - Vitacura",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Santa-Brasa-Alonso-d_660f7d6e_8-28_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Santa-Brasa-Alonso-d_660f7d6e_8-28_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Santa-Brasa-Alonso-d_660f7d6e_8-28_3.png"
-    ],
-    "days": ["viernes"],
-    "locations": ["Vitacura"],
-    "bank": "bci"
-  },
-  {
-    "id": "6811e53faddd48bdc98f9789",
-    "restaurant": "ConserBar - Descuento",
-    "descripcion": "Disfruta un 40% de descuento en ConserBar - Descuento, válido solo para compras presenciales en Barrio Italia, con un tope máximo de $40.000 por cliente.",
-    "titulo": "Jueves - Barrio Italia",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/ConserBar---Descuent_c98f9789_8-54_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/ConserBar---Descuent_c98f9789_8-54_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/ConserBar---Descuent_c98f9789_8-54_3.png"
-    ],
-    "days": ["jueves"],
-    "locations": ["barrio italia"],
-    "bank": "bci"
-  },
-  {
-    "id": "6811e6608b742e10fd798ef3",
+    "id": "688b1283ea7bd85f8eb9fe87",
     "restaurant": "Caleta La Reina - Descuento",
     "descripcion": "Disfruta de un 25% de descuento en Caleta La Reina, válido todos los martes y miércoles, con un tope máximo de $25.000. Aplica en Providencia y La Reina.",
     "titulo": "Martes y miércoles - Providencia y La Reina",
     "descuento": 25,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Caleta-La-Reina---De_fd798ef3_15-45_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Caleta-La-Reina---De_fd798ef3_15-45_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Caleta-La-Reina---De_fd798ef3_15-45_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Caleta-La-Reina---De_fd798ef3_15-45_4.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Caleta-La-Reina---De_8eb9fe87_6-51_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Caleta-La-Reina---De_8eb9fe87_6-51_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Caleta-La-Reina---De_8eb9fe87_6-51_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Caleta-La-Reina---De_8eb9fe87_6-51_4.png"
     ],
     "days": ["martes", "miércoles"],
-    "locations": ["Providencia", "La Reina"],
+    "locations": ["providencia", "la reina"],
     "bank": "bci"
   },
   {
-    "id": "6812017509f9182bc1e7c86c",
-    "restaurant": "Durán Bar de Carnes",
-    "descripcion": "Disfruta de un 40% de descuento en Durán Bar de Carnes en San Pedro de la Paz, con un tope máximo de $40.000. Aplica solo para compras presenciales con Tarjetas de Crédito Bci.",
-    "titulo": "Sábados - San Pedro de la Paz",
+    "id": "688b133135886de205719fe1",
+    "restaurant": "Gracielo - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Gracielo, Providencia, todos los miércoles. Tope máximo de $40.000 por cliente.",
+    "titulo": "Miércoles - Providencia",
     "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Dur%C3%A1n-Bar-de-Carnes_c1e7c86c_10-54_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Dur%C3%A1n-Bar-de-Carnes_c1e7c86c_10-54_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Dur%C3%A1n-Bar-de-Carnes_c1e7c86c_10-54_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Dur%C3%A1n-Bar-de-Carnes_c1e7c86c_10-54_4.png"
-    ],
-    "days": ["sábado"],
-    "locations": ["san pedro de la paz"],
-    "bank": "bci"
-  },
-  {
-    "id": "68124ea38631eecd6820adf9",
-    "restaurant": "Agusta Bar - Descuento",
-    "descripcion": "Disfruta de un 40% de descuento en Agusta Bar, Concepción, pagando con Tarjetas de Crédito Bci. Tope máximo de $40.000 por cliente.",
-    "titulo": "Jueves - Concepción",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Agusta-Bar---Descuen_6820adf9_15-48_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Agusta-Bar---Descuen_6820adf9_15-48_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Agusta-Bar---Descuen_6820adf9_15-48_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Agusta-Bar---Descuen_6820adf9_15-48_4.png"
-    ],
-    "days": ["jueves"],
-    "locations": ["Concepción"],
-    "bank": "bci"
-  },
-  {
-    "id": "681253561ba86c9dd01da14e",
-    "restaurant": "Coya - Descuento",
-    "descripcion": "Descuento del 40% en Coya, válido todos los viernes en Arica, con un tope máximo de $40.000 por cliente.",
-    "titulo": "Viernes - Arica",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Coya---Descuento_d01da14e_15-49_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Coya---Descuento_d01da14e_15-49_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Coya---Descuento_d01da14e_15-49_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Coya---Descuento_d01da14e_15-49_4.png"
-    ],
-    "days": ["viernes"],
-    "locations": ["arica"],
-    "bank": "bci"
-  },
-  {
-    "id": "68125b4c07658480b77a46c3",
-    "restaurant": "Los Hornitos del Molle",
-    "descripcion": "Descuento del 40% en el total de la cuenta, válido todos los viernes en Coquimbo, con un tope máximo de $40.000 por cliente.",
-    "titulo": "Viernes - Valle del Elqui - Coquimbo",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Los-Hornitos-del-Mol_b77a46c3_15-51_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Los-Hornitos-del-Mol_b77a46c3_15-51_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Los-Hornitos-del-Mol_b77a46c3_15-51_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Los-Hornitos-del-Mol_b77a46c3_15-51_4.png"
-    ],
-    "days": ["viernes"],
-    "locations": ["coquimbo"],
-    "bank": "bci"
-  },
-  {
-    "id": "681260f1ec8f2f8cd074ef86",
-    "restaurant": "Los Hornitos del Molle",
-    "descripcion": "Disfruta de un 20% de descuento en Los Hornitos del Molle, válido todos los miércoles y jueves en Coquimbo. Aplica solo para compras presenciales con tarjetas Bci.",
-    "titulo": "Miércoles y jueves - Valle del Elqui - Coquimbo",
-    "descuento": 20,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Los-Hornitos-del-Mol_d074ef86_15-51_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Los-Hornitos-del-Mol_d074ef86_15-51_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Los-Hornitos-del-Mol_d074ef86_15-51_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Los-Hornitos-del-Mol_d074ef86_15-51_4.png"
-    ],
-    "days": ["miércoles", "jueves"],
-    "locations": ["coquimbo"],
-    "bank": "bci"
-  },
-  {
-    "id": "68126456ec8f2fb6c9750052",
-    "restaurant": "Mirazu Robata Fusion - Descuento",
-    "descripcion": "Disfruta un 40% de descuento en Mirazu Robata Fusion en Renaca, válido todos los viernes, con un tope máximo de $40.000 por cliente al pagar con Tarjetas de Crédito Bci.",
-    "titulo": "Viernes - Renaca",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Mirazu-Robata-Fusion_c9750052_17-56_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Mirazu-Robata-Fusion_c9750052_17-56_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Mirazu-Robata-Fusion_c9750052_17-56_3.png"
-    ],
-    "days": ["viernes"],
-    "locations": ["Reñaca"],
-    "bank": "bci"
-  },
-  {
-    "id": "6812784a02601106e2b5f86a",
-    "restaurant": "Nikkei 419 - Descuento",
-    "descripcion": "Disfruta de un 40% de descuento en Nikkei 419 todos los jueves, con un tope máximo de $40.000. Válido solo en compras presenciales en Chile.",
-    "titulo": "Todos los jueves",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Nikkei-419---Descuen_e2b5f86a_15-52_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Nikkei-419---Descuen_e2b5f86a_15-52_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Nikkei-419---Descuen_e2b5f86a_15-52_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Nikkei-419---Descuen_e2b5f86a_15-52_4.png"
-    ],
-    "days": ["jueves"],
-    "locations": ["Chile"],
-    "bank": "bci"
-  },
-  {
-    "id": "68127eecec8f2ff2b5757bfd",
-    "restaurant": "Otra Cozza - Descuento",
-    "descripcion": "Disfruta de un 40% de descuento en Otra Cozza todos los lunes, con un tope máximo de $40.000. Válido solo en compras presenciales en Chile.",
-    "titulo": "Todos los lunes",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Otra-Cozza---Descuen_b5757bfd_19-50_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Otra-Cozza---Descuen_b5757bfd_19-50_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Otra-Cozza---Descuen_b5757bfd_19-50_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Otra-Cozza---Descuen_b5757bfd_19-50_4.png"
-    ],
-    "days": ["lunes"],
-    "locations": ["Chile"],
-    "bank": "bci"
-  },
-  {
-    "id": "68128542ec8f2f5e21759bf8",
-    "restaurant": "The Crust - Descuento",
-    "descripcion": "Disfruta de un 40% de descuento sin tope en The Crust - Descuento en Vitacura, solo los miércoles. Aplica al pagar con tarjetas Bci Signature, Infinite o Black.",
-    "titulo": "Miércoles - Vitacura",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/The-Crust---Descuent_21759bf8_20-17_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/The-Crust---Descuent_21759bf8_20-17_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/The-Crust---Descuent_21759bf8_20-17_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/The-Crust---Descuent_21759bf8_20-17_4.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Gracielo---Descuento_05719fe1_6-54_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Gracielo---Descuento_05719fe1_6-54_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Gracielo---Descuento_05719fe1_6-54_3.png"
     ],
     "days": ["miércoles"],
-    "locations": ["Vitacura"],
+    "locations": ["providencia"],
     "bank": "bci"
   },
   {
-    "id": "68128cb28631ee80a621c99c",
-    "restaurant": "Peumayen Ancestral Food",
-    "descripcion": "Disfruta de un 40% de descuento en Peumayen Ancestral Food en Providencia, Chile. Descuento máximo de $40.000 por cliente, válido todos los jueves.",
-    "titulo": "Jueves - Providencia",
+    "id": "688b1402fa62fb0c450e3f1c",
+    "restaurant": "Rossie La Loca - Descuento",
+    "descripcion": "Descuento del 40% en Rossie La Loca - Descuento, válido todos los miércoles en Providencia, con un tope máximo de $40.000 por cliente.",
+    "titulo": "Miércoles - La Reina - Providencia",
     "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Peumayen-Ancestral-F_a621c99c_15-54_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Peumayen-Ancestral-F_a621c99c_15-54_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Peumayen-Ancestral-F_a621c99c_15-54_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Peumayen-Ancestral-F_a621c99c_15-54_4.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Rossie-La-Loca---Des_450e3f1c_6-58_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Rossie-La-Loca---Des_450e3f1c_6-58_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Rossie-La-Loca---Des_450e3f1c_6-58_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Rossie-La-Loca---Des_450e3f1c_6-58_4.png"
     ],
-    "days": ["jueves"],
-    "locations": ["Providencia"],
+    "days": ["miércoles"],
+    "locations": ["providencia"],
     "bank": "bci"
   },
   {
-    "id": "6838023fff2fc7adbfbae205",
+    "id": "688b162225ea237d2bfd75fd",
     "restaurant": "La Biferia - Descuento",
-    "descripcion": "Disfruta de un 20% de descuento en La Biferia, con un tope máximo de $40.000. Válido todos los días en Chile.",
+    "descripcion": "Descuento del 40% en La Biferia, válido solo los miércoles en Providencia, Chile.",
+    "titulo": "Miércoles - Providencia",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Biferia---Descuen_2bfd75fd_7-7_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Biferia---Descuen_2bfd75fd_7-7_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Biferia---Descuen_2bfd75fd_7-7_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Biferia---Descuen_2bfd75fd_7-7_4.png"
+    ],
+    "days": ["miércoles"],
+    "locations": ["providencia"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b16d525ea232107fd763a",
+    "restaurant": "La Biferia - Descuento",
+    "descripcion": "Obtén un 20% de descuento en La Biferia, válido todos los días en Providencia, con un tope máximo de $40.000 por cliente.",
     "titulo": "Todos los días",
     "descuento": 20,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Biferia---Descuen_bfbae205_6-44_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Biferia---Descuen_bfbae205_6-44_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Biferia---Descuen_bfbae205_6-44_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Biferia---Descuen_bfbae205_6-44_4.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Biferia---Descuen_07fd763a_7-10_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Biferia---Descuen_07fd763a_7-10_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Biferia---Descuen_07fd763a_7-10_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Biferia---Descuen_07fd763a_7-10_4.png"
     ],
     "days": [
       "lunes",
@@ -668,66 +383,82 @@
       "sábado",
       "domingo"
     ],
-    "locations": ["Santiago"],
+    "locations": ["providencia"],
     "bank": "bci"
   },
   {
-    "id": "6838035416e63fbc71b17e01",
+    "id": "688b18e9aa90fbf00deb1bd9",
     "restaurant": "La Biferia - Descuento",
-    "descripcion": "Aprovecha un 40% de descuento en La Biferia, ubicado en Providencia, Chile. Descuento sin tope por cliente diario al pagar con Tarjetas Bci Visa Signature, Mastercard Black y Visa Infinite.",
+    "descripcion": "Disfruta un 40% de descuento en La Biferia, ubicado en Providencia, Chile. Descuento máximo de $40.000. Solo válido los miércoles.",
     "titulo": "Miércoles - Providencia",
     "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Biferia---Descuen_71b17e01_6-48_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Biferia---Descuen_71b17e01_6-48_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Biferia---Descuen_71b17e01_6-48_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Biferia---Descuen_71b17e01_6-48_4.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Biferia---Descuen_0deb1bd9_7-19_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Biferia---Descuen_0deb1bd9_7-19_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Biferia---Descuen_0deb1bd9_7-19_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Biferia---Descuen_0deb1bd9_7-19_4.png"
     ],
     "days": ["miércoles"],
-    "locations": ["Providencia"],
+    "locations": ["providencia"],
     "bank": "bci"
   },
   {
-    "id": "683804ba5da6e36663833042",
-    "restaurant": "Do Sushi - Descuento",
-    "descripcion": "Disfruta de un 20% de descuento en Do Sushi - Descuento, válido solo los sábados y domingos en Providencia, con un tope máximo de $20.000 por cliente al pagar con Tarjetas Bci.",
-    "titulo": "Sábado y Domingo - Providencia",
-    "descuento": 20,
+    "id": "688b1a7225ea236ee1fd777f",
+    "restaurant": "La Parrilla del Guaton Jerez",
+    "descripcion": "Disfruta de un 40% de descuento en La Parrilla del Guaton Jerez, ubicado en Vitacura, solo los jueves. Aplica solo para compras presenciales con tarjetas Bci.",
+    "titulo": "Jueves - Vitacura",
+    "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Do-Sushi---Descuento_63833042_6-54_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Do-Sushi---Descuento_63833042_6-54_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Do-Sushi---Descuento_63833042_6-54_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Do-Sushi---Descuento_63833042_6-54_4.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Parrilla-del-Guat_e1fd777f_7-25_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Parrilla-del-Guat_e1fd777f_7-25_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Parrilla-del-Guat_e1fd777f_7-25_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Parrilla-del-Guat_e1fd777f_7-25_4.png"
     ],
-    "days": ["sábado", "domingo"],
-    "locations": ["Providencia"],
+    "days": ["jueves"],
+    "locations": ["vitacura"],
     "bank": "bci"
   },
   {
-    "id": "683805cdaf322f11c163d1b5",
-    "restaurant": "La Dicha - Descuento",
-    "descripcion": "Descuento del 40% en La Dicha, válido todos los viernes en Vitacura, con un tope máximo de $40.000 por cliente.",
+    "id": "688b1b0e9237c9e50ef00065",
+    "restaurant": "La Parrilla del Guaton Jerez",
+    "descripcion": "Disfruta de un 40% de descuento en La Parrilla del Guaton Jerez en Vitacura, con un tope de $40.000. Solo válido los jueves para compras presenciales con Tarjetas de Crédito Bci.",
+    "titulo": "Jueves - Vitacura",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Parrilla-del-Guat_0ef00065_7-28_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Parrilla-del-Guat_0ef00065_7-28_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Parrilla-del-Guat_0ef00065_7-28_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Parrilla-del-Guat_0ef00065_7-28_4.png"
+    ],
+    "days": ["jueves"],
+    "locations": ["vitacura"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b1c1bcf418e097b38daf6",
+    "restaurant": "Majestic - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Majestic, Vitacura, solo los viernes. Aplica solo para compras presenciales con tarjetas Bci Signature, Infinite y Black.",
     "titulo": "Viernes - Vitacura",
     "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Dicha---Descuento_c163d1b5_6-59_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Dicha---Descuento_c163d1b5_6-59_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Dicha---Descuento_c163d1b5_6-59_3.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Majestic---Descuento_7b38daf6_7-32_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Majestic---Descuento_7b38daf6_7-32_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Majestic---Descuento_7b38daf6_7-32_3.png"
     ],
     "days": ["viernes"],
-    "locations": ["Vitacura"],
+    "locations": ["vitacura"],
     "bank": "bci"
   },
   {
-    "id": "683808a916e63f516fb17fd0",
-    "restaurant": "Majestic",
-    "descripcion": "Descuento del 30% en compras presenciales en Vitacura, con un tope máximo de $30.000 por cliente.",
-    "titulo": "Lunes a Domingo - Vitacura",
+    "id": "688b1cbafa62fb66cc0e4170",
+    "restaurant": "Majestic - Descuento",
+    "descripcion": "Aprovecha un 30% de descuento en Majestic, Vitacura. Descuento máximo de $40.000. Válido todos los días.",
+    "titulo": "Todos los días - Vitacura",
     "descuento": 30,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Majestic---Descuento_6fb17fd0_7-11_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Majestic---Descuento_6fb17fd0_7-11_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Majestic---Descuento_6fb17fd0_7-11_3.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Majestic---Descuento_cc0e4170_7-36_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Majestic---Descuento_cc0e4170_7-36_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Majestic---Descuento_cc0e4170_7-36_3.png"
     ],
     "days": [
       "lunes",
@@ -738,462 +469,363 @@
       "sábado",
       "domingo"
     ],
-    "locations": ["Vitacura"],
+    "locations": ["vitacura"],
     "bank": "bci"
   },
   {
-    "id": "683809d616e63fa908b1804a",
-    "restaurant": "Majka Bistro - Descuento",
-    "descripcion": "Disfruta de un 40% de descuento en Majka Bistro todos los jueves, con un tope máximo de $40.000. Válido solo para compras presenciales en La Reina, Chile.",
-    "titulo": "Jueves - La Reina",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Majka-Bistro---Descu_08b1804a_7-16_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Majka-Bistro---Descu_08b1804a_7-16_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Majka-Bistro---Descu_08b1804a_7-16_3.png"
-    ],
-    "days": ["jueves"],
-    "locations": ["La Reina"],
-    "bank": "bci"
-  },
-  {
-    "id": "683980b55dfb1e8f47d072b1",
-    "restaurant": "La Parrilla del Guaton Jerez",
-    "descripcion": "Aprovecha un 40% de descuento en La Parrilla del Guaton Jerez, ubicado en Vitacura, Chile. Descuento válido solo con tarjetas Bci. No acumulable con otras promociones.",
-    "titulo": "Jueves - Vitacura",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Parrilla-del-Guat_47d072b1_9-56_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Parrilla-del-Guat_47d072b1_9-56_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Parrilla-del-Guat_47d072b1_9-56_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Parrilla-del-Guat_47d072b1_9-56_4.png"
-    ],
-    "days": ["jueves"],
-    "locations": ["Vitacura"],
-    "bank": "bci"
-  },
-  {
-    "id": "68398dea5dfb1e7092d07751",
-    "restaurant": "Sushi Home - Descuento",
-    "descripcion": "Disfruta de un 40% de descuento en Sushi Home - Descuento todos los viernes en Reñaca, con un tope máximo de $40.000. Aplica solo al pagar con Tarjetas de Crédito Bci.",
-    "titulo": "Viernes - Renaca",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sushi-Home-Re%C3%B1aca--_92d07751_10-52_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sushi-Home-Re%C3%B1aca--_92d07751_10-52_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sushi-Home-Re%C3%B1aca--_92d07751_10-52_3.png"
-    ],
-    "days": ["viernes"],
-    "locations": ["Reñaca"],
-    "bank": "bci"
-  },
-  {
-    "id": "68398f2797066072059f59a9",
-    "restaurant": "Sushi & Burger Home - Descuento",
-    "descripcion": "Descuento del 40% en Sushi & Burger Home en Renaca y Viña del Mar, con un tope de $40.000. Solo los jueves.",
-    "titulo": "Jueves - Renaca y viña del mar",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sushi-%26-Burger-Home_059f59a9_10-57_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sushi-%26-Burger-Home_059f59a9_10-57_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sushi-%26-Burger-Home_059f59a9_10-57_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sushi-%26-Burger-Home_059f59a9_10-57_4.png"
-    ],
-    "days": ["jueves"],
-    "locations": ["Reñaca", "viña del mar"],
-    "bank": "bci"
-  },
-  {
-    "id": "683993180587967da967b3ec",
-    "restaurant": "Cheese & Cheese - Descuento",
-    "descripcion": "Disfruta un 40% de descuento en Cheese & Cheese todos los martes en Santiago. Aplica solo para compras presenciales con tarjetas Bci.",
-    "titulo": "Martes - Santo Domingo",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cheese-%26-Cheese---De_a967b3ec_16-12_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cheese-%26-Cheese---De_a967b3ec_16-12_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cheese-%26-Cheese---De_a967b3ec_16-12_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cheese-%26-Cheese---De_a967b3ec_16-12_4.png"
-    ],
-    "days": ["martes"],
-    "locations": ["Santiago"],
-    "bank": "bci"
-  },
-  {
-    "id": "6839952e9ef0dbc4e3e0f44d",
+    "id": "688b1da235886d0d2b71a338",
     "restaurant": "Malva Loca - Descuento",
-    "descripcion": "Disfruta de un 40% de descuento en Malva Loca, Vitacura. Tope máximo de $40.000 por cliente. Solo los martes.",
+    "descripcion": "Disfruta de un 40% de descuento en Malva Loca, Vitacura, todos los martes. Tope máximo de $40.000 por cliente.",
     "titulo": "Martes - Vitacura",
     "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Malva-Loca---Descuen_e3e0f44d_11-23_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Malva-Loca---Descuen_e3e0f44d_11-23_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Malva-Loca---Descuen_e3e0f44d_11-23_3.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Malva-Loca---Descuen_2b71a338_7-39_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Malva-Loca---Descuen_2b71a338_7-39_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Malva-Loca---Descuen_2b71a338_7-39_3.png"
     ],
     "days": ["martes"],
-    "locations": ["Vitacura"],
+    "locations": ["vitacura"],
     "bank": "bci"
   },
   {
-    "id": "683d5af4ffa9996c727ac255",
+    "id": "688b1e5175d7dc04f7994fbd",
     "restaurant": "Onni KBBQ & Hotpot",
-    "descripcion": "Descuento del 30% en Onni KBBQ & Hotpot en Las Condes, con un tope máximo de $30.000 por cliente. Solo para compras presenciales con Tarjetas de Crédito Bci.",
+    "descripcion": "Disfruta de un 30% de descuento en Onni KBBQ & Hotpot en Las Condes, con un tope máximo de $30.000 por cliente. Solo válido los martes.",
     "titulo": "Martes - Las Condes",
     "descuento": 30,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Onni-KBBQ-%26-Hotpot--_727ac255_16-22_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Onni-KBBQ-%26-Hotpot--_727ac255_16-22_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Onni-KBBQ-%26-Hotpot--_727ac255_16-22_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Onni-KBBQ-%26-Hotpot--_727ac255_16-22_4.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Onni-KBBQ-%26-Hotpot--_f7994fbd_7-42_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Onni-KBBQ-%26-Hotpot--_f7994fbd_7-42_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Onni-KBBQ-%26-Hotpot--_f7994fbd_7-42_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Onni-KBBQ-%26-Hotpot--_f7994fbd_7-42_4.png"
     ],
     "days": ["martes"],
-    "locations": ["Las Condes"],
+    "locations": ["las condes"],
     "bank": "bci"
   },
   {
-    "id": "684fdc3cb5610f1c7763a4f6",
-    "restaurant": "Draft House - Mall Sport",
-    "descripcion": "Disfruta de un 30% de descuento todos los miércoles en Draft House - Mall Sport. Solicita tu descuento al pagar con tarjeta BCI.",
-    "titulo": "Todos los Miércoles",
-    "descuento": 30,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Draft-House---Mall-S_7763a4f6_8-56_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Draft-House---Mall-S_7763a4f6_8-56_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Draft-House---Mall-S_7763a4f6_8-56_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Draft-House---Mall-S_7763a4f6_8-56_4.png"
-    ],
-    "days": ["miércoles"],
-    "locations": ["Mall Sport"],
-    "bank": "bci"
-  },
-  {
-    "id": "6862061dedbb075897b32f71",
-    "restaurant": "Membresía PedidosYa Plus",
-    "descripcion": "Aprovecha un año de Membresía PedidosYa Plus por solo $15.000, con un descuento de hasta $32.880. Válido en Chile desde el 1 hasta el 13 de julio de 2025.",
-    "titulo": "12 meses de PedidosYa Plus a precio rebajado",
-    "descuento": 32.88,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Membres%C3%ADa-PedidosYa_97b32f71_20-56_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Membres%C3%ADa-PedidosYa_97b32f71_20-56_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Membres%C3%ADa-PedidosYa_97b32f71_20-56_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Membres%C3%ADa-PedidosYa_97b32f71_20-56_4.png"
-    ],
-    "days": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes",
-      "sábado",
-      "domingo"
-    ],
-    "locations": ["Santiago"],
-    "bank": "bci"
-  },
-  {
-    "id": "6862fc1d306631102f5da4e8",
-    "restaurant": "Ambrosia Restaurant",
-    "descripcion": "Disfruta un 40% de descuento en Ambrosia Restaurant en Vitacura, con un tope máximo de $40.000 por cliente. Solo para compras presenciales.",
-    "titulo": "Miércoles - Vitacura",
+    "id": "688b1eed25ea2348c6fd78bb",
+    "restaurant": "Peluquería Francesa - Descuento",
+    "descripcion": "Aprovecha un 40% de descuento en Peluquería Francesa en Santiago Centro, con un tope máximo de $40.000 por cliente. Solo los miércoles.",
+    "titulo": "Miércoles - Santiago Centro",
     "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ambrosia-Restaurant_2f5da4e8_21-5_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ambrosia-Restaurant_2f5da4e8_21-5_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ambrosia-Restaurant_2f5da4e8_21-5_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ambrosia-Restaurant_2f5da4e8_21-5_4.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Peluquer%C3%ADa-Francesa_c6fd78bb_7-44_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Peluquer%C3%ADa-Francesa_c6fd78bb_7-44_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Peluquer%C3%ADa-Francesa_c6fd78bb_7-44_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Peluquer%C3%ADa-Francesa_c6fd78bb_7-44_4.png"
     ],
     "days": ["miércoles"],
-    "locations": ["Vitacura"],
+    "locations": ["santiago centro"],
     "bank": "bci"
   },
   {
-    "id": "686307d293e01162a05bf200",
-    "restaurant": "Akún Bar - Descuento",
-    "descripcion": "Disfruta de un 50% de descuento en Akún Bar, ubicado en Las Condes, todos los viernes. Aplica solo para compras presenciales con tarjeta Bci.",
-    "titulo": "Viernes - Las Condes",
-    "descuento": 50,
+    "id": "688b1fc8fa62fbca060e4220",
+    "restaurant": "Santa Brasa - VIVO Los Trapenses",
+    "descripcion": "Disfruta de un 40% de descuento en Santa Brasa - VIVO Los Trapenses, válido solo para compras presenciales. Descuento máximo de $40.000. Disponible todos los viernes en Lo Barnechea, Chile.",
+    "titulo": "Viernes - Los Barnechea",
+    "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ak%C3%BAn-Bar---Descuento_a05bf200_21-55_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ak%C3%BAn-Bar---Descuento_a05bf200_21-55_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ak%C3%BAn-Bar---Descuento_a05bf200_21-55_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ak%C3%BAn-Bar---Descuento_a05bf200_21-55_4.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Santa-Brasa-VIVO-Los_060e4220_7-48_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Santa-Brasa-VIVO-Los_060e4220_7-48_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Santa-Brasa-VIVO-Los_060e4220_7-48_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Santa-Brasa-VIVO-Los_060e4220_7-48_4.png"
     ],
     "days": ["viernes"],
-    "locations": ["Las Condes"],
+    "locations": ["lo barnechea"],
     "bank": "bci"
   },
   {
-    "id": "68630909401eff40b4b98e41",
-    "restaurant": "Bar Enigma - Descuento",
-    "descripcion": "Aprovecha un 20% de descuento en Bar Enigma, válido solo los miércoles en Providencia, con un tope máximo de $40.000 por cliente.",
-    "titulo": "Miércoles - Providencia",
-    "descuento": 20,
+    "id": "688b205a25ea234bf9fd7934",
+    "restaurant": "Santa Brasa Alonso de Cordova - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Santa Brasa Alonso de Cordova, válido todos los viernes, con un tope máximo de $40.000. Solo para compras presenciales en Vitacura, Chile.",
+    "titulo": "Viernes - Vitacura",
+    "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-Enigma---Descuen_b4b98e41_22-0_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-Enigma---Descuen_b4b98e41_22-0_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-Enigma---Descuen_b4b98e41_22-0_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-Enigma---Descuen_b4b98e41_22-0_4.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Santa-Brasa-Alonso-d_f9fd7934_7-50_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Santa-Brasa-Alonso-d_f9fd7934_7-50_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Santa-Brasa-Alonso-d_f9fd7934_7-50_3.png"
+    ],
+    "days": ["viernes"],
+    "locations": ["vitacura"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b2242da54a658ed736319",
+    "restaurant": "Verde Sazón -Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Verde Sazón, ubicado en Providencia, Chile. Aplica solo para compras presenciales.",
+    "titulo": "Miércoles - Providencia",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Verde-Saz%C3%B3n--Descuen_ed736319_7-58_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Verde-Saz%C3%B3n--Descuen_ed736319_7-58_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Verde-Saz%C3%B3n--Descuen_ed736319_7-58_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Verde-Saz%C3%B3n--Descuen_ed736319_7-58_4.png"
     ],
     "days": ["miércoles"],
-    "locations": ["Providencia"],
+    "locations": ["providencia"],
     "bank": "bci"
   },
   {
-    "id": "6863097dc4ec6416018666ce",
-    "restaurant": "Bar Enigma - Descuento",
-    "descripcion": "Descuento del 40% en Bar Enigma, válido solo los jueves en Providencia, con un tope máximo de $20.000 por cliente.",
-    "titulo": "Jueves - Providencia",
+    "id": "688b22c500143f025e51ae5c",
+    "restaurant": "Verde Sazón -Descuento",
+    "descripcion": "Descuento del 40% en Verde Sazón, válido solo los miércoles en Providencia, con un tope de $40.000.",
+    "titulo": "Miércoles - Providencia",
     "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-Enigma---Descuen_018666ce_22-2_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-Enigma---Descuen_018666ce_22-2_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-Enigma---Descuen_018666ce_22-2_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-Enigma---Descuen_018666ce_22-2_4.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Verde-Saz%C3%B3n--Descuen_5e51ae5c_8-1_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Verde-Saz%C3%B3n--Descuen_5e51ae5c_8-1_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Verde-Saz%C3%B3n--Descuen_5e51ae5c_8-1_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Verde-Saz%C3%B3n--Descuen_5e51ae5c_8-1_4.png"
+    ],
+    "days": ["miércoles"],
+    "locations": ["providencia"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b2385d313d6e56ed86500",
+    "restaurant": "PadThai - Descuento",
+    "descripcion": "Descuento del 40% en compras presenciales en Providencia. Aplica solo con tarjetas Bci Visa Signature, Visa Infinite y Mastercard Black.",
+    "titulo": "Martes - Providencia.",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/PadThai---Descuento_6ed86500_8-4_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/PadThai---Descuento_6ed86500_8-4_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/PadThai---Descuento_6ed86500_8-4_3.png"
+    ],
+    "days": ["martes"],
+    "locations": ["providencia"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b240aea7bd8d50dba0358",
+    "restaurant": "PadThai - Descuento",
+    "descripcion": "Descuento del 40% en PadThai - Descuento, válido solo los martes en Providencia, con un tope de $40.000.",
+    "titulo": "Martes - Providencia.",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/PadThai---Descuento_0dba0358_8-6_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/PadThai---Descuento_0dba0358_8-6_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/PadThai---Descuento_0dba0358_8-6_3.png"
+    ],
+    "days": ["martes"],
+    "locations": ["providencia"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b2493da54a634a6736472",
+    "restaurant": "PadThai - Descuento",
+    "descripcion": "Disfruta de un 20% de descuento en PadThai - Descuento todos los jueves en Providencia, con un tope máximo de $40.000 por cliente.",
+    "titulo": "Jueves - Providencia",
+    "descuento": 20,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/PadThai---Descuento_a6736472_8-8_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/PadThai---Descuento_a6736472_8-8_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/PadThai---Descuento_a6736472_8-8_3.png"
     ],
     "days": ["jueves"],
-    "locations": ["Providencia"],
+    "locations": ["providencia"],
     "bank": "bci"
   },
   {
-    "id": "68630a00401eff4345b98f2a",
-    "restaurant": "Barrica 94 ViVO Los Trapenses",
-    "descripcion": "Disfruta un 40% de descuento en Barrica 94 ViVO Los Trapenses, con un tope máximo de $40.000. Válido solo para compras presenciales los sábados.",
-    "titulo": "Sábado - Lo Barnechea",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Barrica-94-ViVO-Los_45b98f2a_22-4_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Barrica-94-ViVO-Los_45b98f2a_22-4_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Barrica-94-ViVO-Los_45b98f2a_22-4_3.png"
-    ],
-    "days": ["sábado"],
-    "locations": ["Lo Barnechea"],
-    "bank": "bci"
-  },
-  {
-    "id": "686315f5c4ec644880868360",
+    "id": "688b252addbfefd7e5853f84",
     "restaurant": "Catae - Descuento",
-    "descripcion": "Disfruta de un 40% de descuento en Catae, Vitacura, al pagar con tarjetas Bci. Tope máximo de $40.000 por cliente. Solo los jueves.",
+    "descripcion": "Disfruta de un 40% de descuento en Catae, Vitacura, todos los jueves. Tope máximo de $40.000 por cliente.",
     "titulo": "Jueves - Vitacura",
     "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Catae---Descuento_80868360_22-55_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Catae---Descuento_80868360_22-55_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Catae---Descuento_80868360_22-55_3.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Catae---Descuento_e5853f84_8-11_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Catae---Descuento_e5853f84_8-11_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Catae---Descuento_e5853f84_8-11_3.png"
     ],
     "days": ["jueves"],
-    "locations": ["Vitacura"],
+    "locations": ["vitacura"],
     "bank": "bci"
   },
   {
-    "id": "686350de401eff1e60ba0716",
-    "restaurant": "La Cabrera al paso - Descuento",
-    "descripcion": "Descuento del 40% en La Cabrera al paso, válido todos los viernes en Las Condes y La Reina, con un tope máximo de $40.000 por cliente.",
-    "titulo": "Viernes - Las Condes - La Reina",
+    "id": "688b262cddbfef5eee853fe5",
+    "restaurant": "Shinsei - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Shinsei, Vitacura, con un tope de $40.000. Solo los sábados.",
+    "titulo": "Sábado - Vitacura",
     "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Cabrera-al-paso--_60ba0716_3-7_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Cabrera-al-paso--_60ba0716_3-7_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Cabrera-al-paso--_60ba0716_3-7_3.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Shinsei---Descuento_ee853fe5_8-15_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Shinsei---Descuento_ee853fe5_8-15_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Shinsei---Descuento_ee853fe5_8-15_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Shinsei---Descuento_ee853fe5_8-15_4.png"
     ],
-    "days": ["viernes"],
-    "locations": ["Las Condes", "La Reina"],
+    "days": ["sábado"],
+    "locations": ["vitacura"],
     "bank": "bci"
   },
   {
-    "id": "686353294b084193200cc115",
-    "restaurant": "Majestic",
-    "descripcion": "Aprovecha un 40% de descuento en Majestic, Vitacura, todos los viernes. Descuento válido solo con tarjetas Bci Signature, Infinite y Black.",
-    "titulo": "Viernes - Vitacura",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Majestic---Descuento_200cc115_3-16_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Majestic---Descuento_200cc115_3-16_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Majestic---Descuento_200cc115_3-16_3.png"
-    ],
-    "days": ["viernes"],
-    "locations": ["Vitacura"],
-    "bank": "bci"
-  },
-  {
-    "id": "68635851cfa63cce1733d02e",
+    "id": "688b26c735886d05b771a526",
     "restaurant": "Sky Bar KY - Descuento",
-    "descripcion": "Disfruta de un 40% de descuento en Sky Bar KY, Vitacura. Tope máximo de $40.000 por cliente. Solo para compras presenciales con tarjetas Bci.",
+    "descripcion": "Disfruta de un 40% de descuento en Sky Bar KY en Vitacura, con un tope máximo de $40.000 por cliente. Solo válido para compras presenciales los viernes.",
     "titulo": "Viernes - Vitacura",
     "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sky-Bar-KY---Descuen_1733d02e_3-38_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sky-Bar-KY---Descuen_1733d02e_3-38_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sky-Bar-KY---Descuen_1733d02e_3-38_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sky-Bar-KY---Descuen_1733d02e_3-38_4.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sky-Bar-KY---Descuen_b771a526_8-18_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sky-Bar-KY---Descuen_b771a526_8-18_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sky-Bar-KY---Descuen_b771a526_8-18_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sky-Bar-KY---Descuen_b771a526_8-18_4.png"
     ],
     "days": ["viernes"],
-    "locations": ["Vitacura"],
+    "locations": ["vitacura"],
     "bank": "bci"
   },
   {
-    "id": "68635978401eff6d31ba108e",
-    "restaurant": "Verde Sazón -Descuento",
-    "descripcion": "Disfruta de un 40% de descuento en Verde Sazón, ubicado en Providencia, Chile. Aplica solo para compras presenciales con Tarjetas de Crédito Bci.",
-    "titulo": "Miercoles - Providencia",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Verde-Saz%C3%B3n--Descuen_31ba108e_3-43_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Verde-Saz%C3%B3n--Descuen_31ba108e_3-43_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Verde-Saz%C3%B3n--Descuen_31ba108e_3-43_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Verde-Saz%C3%B3n--Descuen_31ba108e_3-43_4.png"
-    ],
-    "days": ["miércoles"],
-    "locations": ["Providencia"],
-    "bank": "bci"
-  },
-  {
-    "id": "68637eea4b0841076d0ceb4f",
-    "restaurant": "Cambalache - Descuento",
-    "descripcion": "Descuento del 40% en Cambalache - Descuento en Puerto Varas, con un tope máximo de $40.000. Solo los jueves.",
-    "titulo": "Jueves - Puerto Varas",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cambalache---Descuen_6d0ceb4f_6-23_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cambalache---Descuen_6d0ceb4f_6-23_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cambalache---Descuen_6d0ceb4f_6-23_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cambalache---Descuen_6d0ceb4f_6-23_4.png"
-    ],
-    "days": ["jueves"],
-    "locations": ["puerto varas"],
-    "bank": "bci"
-  },
-  {
-    "id": "686380bdedbb078ff1b64695",
-    "restaurant": "Parrilla el Galpón - Descuento",
-    "descripcion": "Aprovecha un 40% de descuento en Parrilla el Galpón en Osorno, con un tope máximo de $40.000. Solo válido para compras presenciales con Tarjetas de Crédito Bci.",
-    "titulo": "Martes - Osorno",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Parrilla-el-Galp%C3%B3n--_f1b64695_6-31_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Parrilla-el-Galp%C3%B3n--_f1b64695_6-31_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Parrilla-el-Galp%C3%B3n--_f1b64695_6-31_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Parrilla-el-Galp%C3%B3n--_f1b64695_6-31_4.png"
-    ],
-    "days": ["martes"],
-    "locations": ["Osorno"],
-    "bank": "bci"
-  },
-  {
-    "id": "6863825e4b0841377e0ceca7",
-    "restaurant": "Sello de Raza - Descuento",
-    "descripcion": "Aprovecha un 40% de descuento en Sello de Raza en Valdivia, con un tope máximo de $40.000. Solo válido para compras presenciales con Tarjetas de Crédito Bci.",
-    "titulo": "Jueves - Valdivia",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sello-de-Raza---Desc_7e0ceca7_6-38_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sello-de-Raza---Desc_7e0ceca7_6-38_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sello-de-Raza---Desc_7e0ceca7_6-38_3.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sello-de-Raza---Desc_7e0ceca7_6-38_4.png"
-    ],
-    "days": ["jueves"],
-    "locations": ["valdivia"],
-    "bank": "bci"
-  },
-  {
-    "id": "68638338fecb6c122dff05cb",
-    "restaurant": "Don Pedro - Descuento",
-    "descripcion": "Aprovecha un 40% de descuento en Don Pedro, Temuco, pagando con Tarjetas de Crédito Bci. Descuento máximo de $40.000 por cliente.",
-    "titulo": "Viernes - Temuco",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Don-Pedro---Descuent_2dff05cb_6-42_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Don-Pedro---Descuent_2dff05cb_6-42_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Don-Pedro---Descuent_2dff05cb_6-42_3.png"
-    ],
-    "days": ["viernes"],
-    "locations": ["Temuco"],
-    "bank": "bci"
-  },
-  {
-    "id": "6862fcfffecb6c6b14fdba82",
+    "id": "688b299d75d7dc0a4a9953ed",
     "restaurant": "Sublime - Descuento",
-    "descripcion": "Disfruta de un 40% de descuento sin tope todos los miércoles en Sublime - Descuento en Providencia y Vitacura. Aplica solo con tarjetas Bci.",
+    "descripcion": "Disfruta de un 40% de descuento en Sublime - Descuento en Providencia y Vitacura. Aplica solo para compras presenciales con tarjetas Bci.",
     "titulo": "Miércoles - Providencia y Vitacura",
     "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sublime---Descuento_14fdba82_21-9_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sublime---Descuento_14fdba82_21-9_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sublime---Descuento_14fdba82_21-9_3.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sublime---Descuento_4a9953ed_8-30_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sublime---Descuento_4a9953ed_8-30_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sublime---Descuento_4a9953ed_8-30_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sublime---Descuento_4a9953ed_8-30_4.png"
     ],
     "days": ["miércoles"],
-    "locations": ["Providencia", "Vitacura"],
+    "locations": ["providencia", "vitacura"],
     "bank": "bci"
   },
   {
-    "id": "6862ffb2ce9521dc58b2d35f",
-    "restaurant": "Ciragán - Descuento",
-    "descripcion": "Disfruta de un 40% de descuento en Ciragán, Mallplaza Antofagasta, con un tope de $40.000. Solo los jueves.",
-    "titulo": "Todos los Jueves en Mallplaza Antofagasta",
+    "id": "688b2a94da54a631047365ec",
+    "restaurant": "Sublime - Descuento",
+    "descripcion": "Disfruta de un 20% de descuento en Sublime - Descuento en Providencia y Vitacura, con un tope de $20.000. Solo válido los miércoles.",
+    "titulo": "Miércoles - Providencia y Vitacura",
+    "descuento": 20,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sublime---Descuento_047365ec_8-34_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sublime---Descuento_047365ec_8-34_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sublime---Descuento_047365ec_8-34_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sublime---Descuento_047365ec_8-34_4.png"
+    ],
+    "days": ["miércoles"],
+    "locations": ["providencia", "vitacura"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b2b57fa62fb39d00e4567",
+    "restaurant": "La Santoria - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en La Santoria, válido todos los lunes en Providencia, con un tope máximo de $40.000 por cliente.",
+    "titulo": "Lunes - Providencia",
     "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cirag%C3%A1n---Descuento_58b2d35f_21-20_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cirag%C3%A1n---Descuento_58b2d35f_21-20_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cirag%C3%A1n---Descuento_58b2d35f_21-20_3.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Santoria---Descue_d00e4567_8-37_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Santoria---Descue_d00e4567_8-37_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Santoria---Descue_d00e4567_8-37_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Santoria---Descue_d00e4567_8-37_4.png"
+    ],
+    "days": ["lunes"],
+    "locations": ["providencia"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b2ce9cf418ea39938e017",
+    "restaurant": "La Vinoteca - Descuento",
+    "descripcion": "Descuento del 40% en La Vinoteca, válido solo los miércoles en Lo Barnechea, Vitacura y Providencia, con tope de $40.000.",
+    "titulo": "Miércoles - Lo Barnechea - Vitacura - Providencia",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Vinoteca---Descue_9938e017_8-44_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Vinoteca---Descue_9938e017_8-44_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Vinoteca---Descue_9938e017_8-44_3.png"
+    ],
+    "days": ["miércoles"],
+    "locations": ["lo barnechea", "vitacura", "providencia"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b2da075d7dcf4ff9954fe",
+    "restaurant": "La Cabrera al paso - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en La Cabrera al paso - Descuento, válido todos los viernes en Las Condes y La Reina, con un tope máximo de $40.000 por cliente.",
+    "titulo": "Viernes - Las Condes - La Reina",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Cabrera-al-paso--_ff9954fe_8-47_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Cabrera-al-paso--_ff9954fe_8-47_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Cabrera-al-paso--_ff9954fe_8-47_3.png"
+    ],
+    "days": ["viernes"],
+    "locations": ["las condes", "la reina"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b2e57fa62fbbf710e45ec",
+    "restaurant": "Coya - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Coya - Descuento todos los viernes en Arica, con un tope máximo de $40.000 por cliente. Aplica solo para compras presenciales con Tarjetas de Crédito Bci.",
+    "titulo": "Viernes - Arica",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Coya---Descuento_710e45ec_8-50_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Coya---Descuento_710e45ec_8-50_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Coya---Descuento_710e45ec_8-50_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Coya---Descuento_710e45ec_8-50_4.png"
+    ],
+    "days": ["viernes"],
+    "locations": ["Arica"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b3e7ad313d60f72d86abf",
+    "restaurant": "La Mulata - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en La Mulata, Iquique, todos los jueves. Descuento máximo de $40.000 por cliente.",
+    "titulo": "Jueves - Iquique",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Mulata---Descuent_72d86abf_9-59_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Mulata---Descuent_72d86abf_9-59_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Mulata---Descuent_72d86abf_9-59_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Mulata---Descuent_72d86abf_9-59_4.png"
     ],
     "days": ["jueves"],
+    "locations": ["iquique"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b3f36ddbfef9c91854586",
+    "restaurant": "Fuente Peruana - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Fuente Peruana, Iquique, todos los miércoles. Descuento máximo de $40.000 por cliente.",
+    "titulo": "Miércoles - Iquique - Cavancha",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Fuente-Peruana---De_91854586_10-2_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Fuente-Peruana---De_91854586_10-2_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Fuente-Peruana---De_91854586_10-2_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Fuente-Peruana---De_91854586_10-2_4.png"
+    ],
+    "days": ["miércoles"],
+    "locations": ["iquique"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b3fc6d313d6c44ad86b45",
+    "restaurant": "Ambbar Restobar - Descuentos",
+    "descripcion": "Disfruta de un 40% de descuento en Ambbar Restobar en Antofagasta, con un tope máximo de $40.000. Solo los miércoles, solicita tu descuento al momento de pagar.",
+    "titulo": "Miércoles - Antofagasta",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ambbar-Restobar---De_4ad86b45_10-4_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ambbar-Restobar---De_4ad86b45_10-4_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ambbar-Restobar---De_4ad86b45_10-4_3.png"
+    ],
+    "days": ["miércoles"],
     "locations": ["Antofagasta"],
     "bank": "bci"
   },
   {
-    "id": "68630109401eff2855b97356",
-    "restaurant": "Tijuana - Descuento",
-    "descripcion": "Disfruta un 40% de descuento en Tijuana, Mallplaza El Trébol, Concepción. Descuento máximo de $40.000. Solo los jueves.",
-    "titulo": "Todos los Jueves en Mallplaza El Trébol Concepción",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Tijuana---Descuento_55b97356_21-26_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Tijuana---Descuento_55b97356_21-26_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Tijuana---Descuento_55b97356_21-26_3.png"
-    ],
-    "days": ["jueves"],
-    "locations": ["Concepción"],
-    "bank": "bci"
-  },
-  {
-    "id": "6863020d439bc88e05bb46d5",
-    "restaurant": "Chueca Bar - Descuento",
-    "descripcion": "Disfruta de un 20% de descuento en Chueca Bar, válido solo para compras presenciales en Providencia, con un tope máximo de $40.000 por cliente.",
-    "titulo": "Lunes, martes y miércoles - Providencia",
-    "descuento": 20,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Chueca-Bar---Descuen_05bb46d5_21-30_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Chueca-Bar---Descuen_05bb46d5_21-30_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Chueca-Bar---Descuen_05bb46d5_21-30_3.png"
-    ],
-    "days": ["lunes", "martes", "miércoles"],
-    "locations": ["Providencia"],
-    "bank": "bci"
-  },
-  {
-    "id": "68630352ce952112b9b2e5f4",
-    "restaurant": "Il Forno",
-    "descripcion": "Disfruta un 40% de descuento en Il Forno en Mallplaza Antofagasta y Copiapó, con un tope máximo de $40.000 por cliente. Válido solo los jueves.",
-    "titulo": "Todos los Jueves en Mallplaza Antofagasta y Copiapó",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Il-Forno---Descuento_b9b2e5f4_21-36_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Il-Forno---Descuento_b9b2e5f4_21-36_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Il-Forno---Descuento_b9b2e5f4_21-36_3.png"
-    ],
-    "days": ["jueves"],
-    "locations": ["Antofagasta", "Copiapó"],
-    "bank": "bci"
-  },
-  {
-    "id": "6863044e401eff6a2ab97f39",
+    "id": "688b44d6ddbfef8b968547d6",
     "restaurant": "Bariloche - Descuento",
-    "descripcion": "Descuento del 40% en compras presenciales en Mallplaza Antofagasta, Calama, Copiapó, La Serena y Concepción, con un tope máximo de $40.000 por cliente.",
-    "titulo": "Todos los jueves en Mallplaza",
+    "descripcion": "Disfruta de un 40% de descuento en Bariloche, válido todos los jueves en Antofagasta, Calama, Copiapó, La Serena y Concepción, con un tope máximo de $40.000 por cliente.",
+    "titulo": "Descuento del 40% todos los jueves",
     "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bariloche---Descuent_2ab97f39_21-40_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bariloche---Descuent_2ab97f39_21-40_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bariloche---Descuent_2ab97f39_21-40_3.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bariloche---Descuent_968547d6_10-26_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bariloche---Descuent_968547d6_10-26_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bariloche---Descuent_968547d6_10-26_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bariloche---Descuent_968547d6_10-26_4.png"
     ],
     "days": ["jueves"],
     "locations": [
@@ -1206,228 +838,593 @@
     "bank": "bci"
   },
   {
-    "id": "686318a3c3f93550b41ac25f",
-    "restaurant": "Ceiba - Descuento",
-    "descripcion": "Disfruta de un 50% de descuento en Ceiba, Vitacura, solo con tus Tarjetas Bci Visa Signature, Visa Infinite y Mastercard Black. Aplica solo para compras presenciales.",
-    "titulo": "Jueves - Vitacura",
-    "descuento": 50,
+    "id": "688b458035886d234d71ad49",
+    "restaurant": "La Dicha - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en La Dicha, Vitacura, todos los viernes. Tope máximo de $40.000 por cliente.",
+    "titulo": "Viernes - Vitacura",
+    "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ceiba---Descuento_b41ac25f_23-7_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ceiba---Descuento_b41ac25f_23-7_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ceiba---Descuento_b41ac25f_23-7_3.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Dicha---Descuento_4d71ad49_10-29_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Dicha---Descuento_4d71ad49_10-29_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/La-Dicha---Descuento_4d71ad49_10-29_3.png"
+    ],
+    "days": ["viernes"],
+    "locations": ["vitacura"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b92cf9237c9293bf07f99",
+    "restaurant": "Il Forno - Descuento",
+    "descripcion": "Disfruta un 40% de descuento en Il Forno en Antofagasta y Copiapó, con un tope de $40.000. Solo válido los jueves.",
+    "titulo": "Jueves - Antofagasta y Copiapó",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Il-Forno---Descuento_3bf07f99_15-59_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Il-Forno---Descuento_3bf07f99_15-59_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Il-Forno---Descuento_3bf07f99_15-59_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Il-Forno---Descuento_3bf07f99_15-59_4.png"
     ],
     "days": ["jueves"],
-    "locations": ["Vitacura"],
+    "locations": ["antofagasta", "copiapó"],
     "bank": "bci"
   },
   {
-    "id": "6863562d4b084131cb0cc693",
-    "restaurant": "Danubio Azul - Descuento",
-    "descripcion": "Disfruta de un 40% de descuento en Danubio Azul, válido todos los jueves en Las Condes, con un tope máximo de $40.000 por cliente.",
-    "titulo": "Jueves - Las Condes",
+    "id": "688b93a400143f5965522777",
+    "restaurant": "Ciragán - Descuento",
+    "descripcion": "Descuento del 40% en Mallplaza Antofagasta, con un tope máximo de $40.000 por cliente. Válido solo para compras presenciales.",
+    "titulo": "Jueves - Antofagasta",
     "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Danubio-Azul-los-jue_cb0cc693_3-29_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Danubio-Azul-los-jue_cb0cc693_3-29_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Danubio-Azul-los-jue_cb0cc693_3-29_3.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cirag%C3%A1n---Descuento_65522777_16-2_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cirag%C3%A1n---Descuento_65522777_16-2_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cirag%C3%A1n---Descuento_65522777_16-2_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cirag%C3%A1n---Descuento_65522777_16-2_4.png"
     ],
     "days": ["jueves"],
-    "locations": ["Las Condes"],
+    "locations": ["antofagasta"],
     "bank": "bci"
   },
   {
-    "id": "68637ff9c3f935a37f1b8d68",
-    "restaurant": "Parrilla Los Gauchos - Descuento",
-    "descripcion": "Disfruta de un 40% de descuento en Parrilla Los Gauchos en Osorno, con un tope máximo de $40.000 por cliente. Aplica solo para compras presenciales con Tarjetas de Crédito Bci.",
-    "titulo": "Miércoles - Osorno",
+    "id": "688b9790da54a667b173df39",
+    "restaurant": "Cuerovaca - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Cuerovaca - Descuento todos los viernes en Vitacura, con un tope máximo de $40.000 por cliente.",
+    "titulo": "Viernes - Vitacura",
     "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Parrilla-Los-Gauchos_7f1b8d68_6-28_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Parrilla-Los-Gauchos_7f1b8d68_6-28_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Parrilla-Los-Gauchos_7f1b8d68_6-28_3.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cuerovaca---Descuent_b173df39_16-19_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cuerovaca---Descuent_b173df39_16-19_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cuerovaca---Descuent_b173df39_16-19_3.png"
+    ],
+    "days": ["viernes"],
+    "locations": ["vitacura"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b9833ea7bd8f8a5ba809e",
+    "restaurant": "Jeró Bistró - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Jeró Bistró en Maitencillo, válido todos los viernes, con un tope máximo de $40.000 por cliente.",
+    "titulo": "Viernes - Maitencillo",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Jer%C3%B3-Bistr%C3%B3---Descue_a5ba809e_16-22_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Jer%C3%B3-Bistr%C3%B3---Descue_a5ba809e_16-22_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Jer%C3%B3-Bistr%C3%B3---Descue_a5ba809e_16-22_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Jer%C3%B3-Bistr%C3%B3---Descue_a5ba809e_16-22_4.png"
+    ],
+    "days": ["viernes"],
+    "locations": ["maitencillo"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b98f125ea231888fdffc1",
+    "restaurant": "Pizzicarella - Descuento",
+    "descripcion": "Disfruta de un 20% de descuento en Pizzicarella, válido solo para compras presenciales en Antofagasta, con un tope máximo de $20.000 por cliente.",
+    "titulo": "Lunes y Miércoles - Antofagasta",
+    "descuento": 20,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Pizzicarella---Descu_88fdffc1_16-25_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Pizzicarella---Descu_88fdffc1_16-25_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Pizzicarella---Descu_88fdffc1_16-25_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Pizzicarella---Descu_88fdffc1_16-25_4.png"
+    ],
+    "days": ["lunes", "miercoles"],
+    "locations": ["antofagasta"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b9aea25ea236584fe029f",
+    "restaurant": "Gaucho - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en el restaurante Gaucho en Viña del Mar, con un tope máximo de $40.000. Solo los jueves, presentando tu tarjeta de crédito Bci.",
+    "titulo": "Jueves - Vina del Mar",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Gaucho---Descuento_84fe029f_16-33_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Gaucho---Descuento_84fe029f_16-33_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Gaucho---Descuento_84fe029f_16-33_3.png"
+    ],
+    "days": ["jueves"],
+    "locations": ["viña del mar"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b9b7eddbfef3cf685d7aa",
+    "restaurant": "Sushi Home - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Sushi Home - Descuento en Reñaca, con un tope máximo de $40.000 por cliente. Solo válido para compras presenciales los viernes.",
+    "titulo": "Viernes - Renaca",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sushi-Home---Descuen_f685d7aa_16-36_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sushi-Home---Descuen_f685d7aa_16-36_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sushi-Home---Descuen_f685d7aa_16-36_3.png"
+    ],
+    "days": ["viernes"],
+    "locations": ["reñaca"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b9c5bcf418e0d04396b49",
+    "restaurant": "Sushi & Burger Home - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Sushi & Burger Home en Viña del Mar, con un tope máximo de $40.000 por cliente. Solo válido para compras presenciales los jueves.",
+    "titulo": "Jueves - Vina del Mar",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sushi-%26-Burger-Home_04396b49_16-39_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sushi-%26-Burger-Home_04396b49_16-39_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sushi-%26-Burger-Home_04396b49_16-39_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sushi-%26-Burger-Home_04396b49_16-39_4.png"
+    ],
+    "days": ["jueves"],
+    "locations": ["viña del mar"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b9e7afa62fb0a8f0eca3e",
+    "restaurant": "Sushi & Burger Home - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Sushi & Burger Home en Reñaca, con un tope máximo de $40.000. Solo válido para compras presenciales con tarjeta Bci.",
+    "titulo": "Jueves - Renaca",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sushi-%26-Burger-Home_8f0eca3e_16-48_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sushi-%26-Burger-Home_8f0eca3e_16-48_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sushi-%26-Burger-Home_8f0eca3e_16-48_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sushi-%26-Burger-Home_8f0eca3e_16-48_4.png"
+    ],
+    "days": ["jueves"],
+    "locations": ["Reñaca"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b9f78d313d6e9d0d8f883",
+    "restaurant": "Sanguchería Gorilas - Descuento",
+    "descripcion": "Disfruta un 40% de descuento en Sanguchería Gorilas en Viña del Mar, con un tope máximo de $40.000. Solo los miércoles.",
+    "titulo": "Miércoles - Viña del Mar",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sangucher%C3%ADa-Gorilas_d0d8f883_16-53_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sangucher%C3%ADa-Gorilas_d0d8f883_16-53_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sangucher%C3%ADa-Gorilas_d0d8f883_16-53_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sangucher%C3%ADa-Gorilas_d0d8f883_16-53_4.png"
     ],
     "days": ["miércoles"],
-    "locations": ["Osorno"],
+    "locations": ["Viña del Mar", "Concón", "Curauma", "Quillota", "Quilpué"],
     "bank": "bci"
   },
   {
-    "id": "686381b393e01150c35c8fd3",
-    "restaurant": "Cava Parrilla Bar - Descuento",
-    "descripcion": "Obtén un 40% de descuento en Cava Parrilla Bar en Valdivia, con un tope máximo de $40.000 por cliente. Aplica solo para compras presenciales con Tarjetas de Crédito Bci.",
-    "titulo": "Lunes - Valdivia",
+    "id": "688ba12535886d699d724174",
+    "restaurant": "Mirazu Robata Fusion - Descuento",
+    "descripcion": "Disfruta un 40% de descuento en Mirazu Robata Fusion en Reñaca, con un tope máximo de $40.000. Solo para compras presenciales.",
+    "titulo": "Viernes - Renaca",
     "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cava-Parrilla-Bar--_c35c8fd3_6-35_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cava-Parrilla-Bar--_c35c8fd3_6-35_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cava-Parrilla-Bar--_c35c8fd3_6-35_3.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Mirazu-Robata-Fusion_9d724174_17-0_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Mirazu-Robata-Fusion_9d724174_17-0_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Mirazu-Robata-Fusion_9d724174_17-0_3.png"
     ],
-    "days": ["lunes"],
-    "locations": ["valdivia"],
+    "days": ["viernes"],
+    "locations": ["reñaca"],
     "bank": "bci"
   },
   {
-    "id": "6863840d93e011504a5c909b",
-    "restaurant": "Las Tranqueras - Descuento",
-    "descripcion": "Disfruta de un 40% de descuento en Las Tranqueras en Temuco, con un tope máximo de $40.000. Aplica solo para compras presenciales con Tarjetas de Crédito Bci.",
-    "titulo": "Miércoles - Temuco",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Las-Tranqueras---Des_4a5c909b_6-45_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Las-Tranqueras---Des_4a5c909b_6-45_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Las-Tranqueras---Des_4a5c909b_6-45_3.png"
-    ],
-    "days": ["miércoles"],
-    "locations": ["Temuco"],
-    "bank": "bci"
-  },
-  {
-    "id": "686384fece9521bdf3b40664",
-    "restaurant": "Martina Lounge Bar",
-    "descripcion": "Descuento del 40% en Martina Lounge Bar, con un tope máximo de $40.000. Válido en Temuco.",
-    "titulo": "Lunes - Temuco",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Martina-Lounge-Bar--_f3b40664_6-49_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Martina-Lounge-Bar--_f3b40664_6-49_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Martina-Lounge-Bar--_f3b40664_6-49_3.png"
-    ],
-    "days": ["lunes"],
-    "locations": ["Temuco"],
-    "bank": "bci"
-  },
-  {
-    "id": "686387f8ce952132b2b407a4",
+    "id": "688ba3059237c9e5def0a84d",
     "restaurant": "Piso 28 - Descuento",
-    "descripcion": "Disfruta de un 40% de descuento en Piso 28 - Descuento en Antofagasta, con un tope máximo de $40.000 por cliente. Aplica solo para compras presenciales con Tarjetas de Crédito Bci.",
+    "descripcion": "Disfruta de un 40% de descuento en Piso 28 - Descuento en Antofagasta, con un tope máximo de $40.000 por cliente. Solo para compras presenciales con Tarjetas de Crédito Bci.",
     "titulo": "Sábado - Antofagasta",
     "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Piso-28---Descuento_b2b407a4_7-2_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Piso-28---Descuento_b2b407a4_7-2_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Piso-28---Descuento_b2b407a4_7-2_3.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Piso-28---Descuento_def0a84d_17-8_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Piso-28---Descuento_def0a84d_17-8_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Piso-28---Descuento_def0a84d_17-8_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Piso-28---Descuento_def0a84d_17-8_4.png"
     ],
     "days": ["sábado"],
     "locations": ["Antofagasta"],
     "bank": "bci"
   },
   {
-    "id": "68638a9693e01127735c92e3",
-    "restaurant": "Pizzicarella - Descuento",
-    "descripcion": "Aprovecha un 20% de descuento en Pizzicarella en Antofagasta, con un tope máximo de $40.000 por cliente. Solo para compras presenciales con tarjetas Bci.",
-    "titulo": "Lunes y Miércoles- Antofagasta",
-    "descuento": 20,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Pizzicarella---Descu_735c92e3_7-13_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Pizzicarella---Descu_735c92e3_7-13_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Pizzicarella---Descu_735c92e3_7-13_3.png"
-    ],
-    "days": ["lunes", "miércoles"],
-    "locations": ["Antofagasta"],
-    "bank": "bci"
-  },
-  {
-    "id": "68638b7dfecb6c2eb8ff08e7",
-    "restaurant": "Bar Liguria - Descuento",
-    "descripcion": "Descuento del 20% en Bar Liguria, válido en Providencia, con un tope máximo de $50.000 por cliente.",
-    "titulo": "Martes y Miércoles - Providencia - Manuel Montt - Lastarria",
-    "descuento": 20,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-Liguria---Descue_b8ff08e7_7-17_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-Liguria---Descue_b8ff08e7_7-17_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-Liguria---Descue_b8ff08e7_7-17_3.png"
-    ],
-    "days": ["martes", "miércoles"],
-    "locations": ["Providencia"],
-    "bank": "bci"
-  },
-  {
-    "id": "68638c9dc3f9354cca1b9297",
-    "restaurant": "Peluquería Francesa - Descuento",
-    "descripcion": "Descuento del 40% en Peluquería Francesa, válido en Santiago Centro, con un tope máximo de $40.000 por cliente.",
-    "titulo": "Miércoles - Santiago Centro",
+    "id": "688ba4649237c9de50f0aae0",
+    "restaurant": "Cheese & Cheese - Descuento",
+    "descripcion": "Aprovecha un 40% de descuento en Cheese & Cheese, válido solo los martes en Santiago, con un tope de $40.000. Solicita el descuento al momento de pagar.",
+    "titulo": "Martes - Santo Domingo",
     "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Peluquer%C3%ADa-Francesa_ca1b9297_7-22_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Peluquer%C3%ADa-Francesa_ca1b9297_7-22_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Peluquer%C3%ADa-Francesa_ca1b9297_7-22_3.png"
-    ],
-    "days": ["miércoles"],
-    "locations": ["Santiago"],
-    "bank": "bci"
-  },
-  {
-    "id": "68638d8b4b084173490cf1e2",
-    "restaurant": "Demencia - Descuento",
-    "descripcion": "Disfruta un 50% de descuento en Demencia - Descuento en Vitacura, Chile. Aplica solo para compras presenciales.",
-    "titulo": "Martes - Vitacura",
-    "descuento": 50,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Demencia---Descuento_490cf1e2_7-26_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Demencia---Descuento_490cf1e2_7-26_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Demencia---Descuento_490cf1e2_7-26_3.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cheese-%26-Cheese---De_50f0aae0_17-14_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cheese-%26-Cheese---De_50f0aae0_17-14_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cheese-%26-Cheese---De_50f0aae0_17-14_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cheese-%26-Cheese---De_50f0aae0_17-14_4.png"
     ],
     "days": ["martes"],
-    "locations": ["Vitacura"],
+    "locations": ["santiago"],
     "bank": "bci"
   },
   {
-    "id": "6865a788401eff2428bf3ce2",
-    "restaurant": "Ari Nikkei",
-    "descripcion": "Descuento del 40% en Ari Nikkei, con un tope de $40.000. Válido solo en Las Condes, Chile.",
-    "titulo": "Miércoles - Las Condes",
+    "id": "688bbe07ea7bd86b32bad308",
+    "restaurant": "Bocas del Mar - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Bocas del Mar, Pichilemu, con un tope máximo de $40.000. Solo válido para compras presenciales los viernes.",
+    "titulo": "Viernes - Pichilemu",
     "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ari-Nikkei_28bf3ce2_21-41_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ari-Nikkei_28bf3ce2_21-41_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Ari-Nikkei_28bf3ce2_21-41_3.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bocas-del-Mar---Desc_32bad308_19-3_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bocas-del-Mar---Desc_32bad308_19-3_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bocas-del-Mar---Desc_32bad308_19-3_3.png"
     ],
+    "days": ["viernes"],
+    "locations": ["pichilemu"],
+    "bank": "bci"
+  },
+  {
+    "id": "688bbee100143fa67f528082",
+    "restaurant": "Toro Bayo - Descuento",
+    "descripcion": "Disfruta un 40% de descuento en Toro Bayo, Talca, con un tope máximo de $40.000. Solo para compras presenciales con tarjeta Bci.",
+    "titulo": "Viernes - Talca",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Toro-Bayo---Descuent_7f528082_19-7_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Toro-Bayo---Descuent_7f528082_19-7_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Toro-Bayo---Descuent_7f528082_19-7_3.png"
+    ],
+    "days": ["viernes"],
+    "locations": ["talca"],
+    "bank": "bci"
+  },
+  {
+    "id": "688bbfc5cf418e22a539bc4a",
+    "restaurant": "Durán Bar de Carnes - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Durán Bar de Carnes en San Pedro de la Paz, con un tope máximo de $40.000 por cliente. Solo válido para compras presenciales con Tarjetas de Crédito Bci.",
+    "titulo": "Sábados - San Pedro de la Paz",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Dur%C3%A1n-Bar-de-Carnes_a539bc4a_19-11_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Dur%C3%A1n-Bar-de-Carnes_a539bc4a_19-11_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Dur%C3%A1n-Bar-de-Carnes_a539bc4a_19-11_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Dur%C3%A1n-Bar-de-Carnes_a539bc4a_19-11_4.png"
+    ],
+    "days": ["sabado"],
+    "locations": ["san pedro de la paz"],
+    "bank": "bci"
+  },
+  {
+    "id": "688bc48135886d7213729910",
+    "restaurant": "Tijuana - Descuento",
+    "descripcion": "Disfruta un 40% de descuento en Tijuana, Mallplaza El Trébol, Concepción. Tope máximo de $40.000 por cliente.",
+    "titulo": "Jueves - San Pedro de la Paz",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Tijuana---Descuento_13729910_19-31_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Tijuana---Descuento_13729910_19-31_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Tijuana---Descuento_13729910_19-31_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Tijuana---Descuento_13729910_19-31_4.png"
+    ],
+    "days": ["jueves"],
+    "locations": ["Concepción"],
+    "bank": "bci"
+  },
+  {
+    "id": "688bc5b0ada16a0d59c84ac3",
+    "restaurant": "Las Tranqueras - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Las Tranqueras, Temuco, con un tope de $40.000. Solo los miércoles.",
+    "titulo": "Miércoles - Temuco",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Las-Tranqueras---Des_59c84ac3_19-36_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Las-Tranqueras---Des_59c84ac3_19-36_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Las-Tranqueras---Des_59c84ac3_19-36_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Las-Tranqueras---Des_59c84ac3_19-36_4.png"
+    ],
+    "days": ["miércoles"],
+    "locations": ["temuco"],
+    "bank": "bci"
+  },
+  {
+    "id": "688c30d259f4192577204746",
+    "restaurant": "Martina Lounge Bar - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Martina Lounge Bar en Temuco, con un tope máximo de $40.000 por cliente. Aplica solo los lunes.",
+    "titulo": "Copia - Lunes - Temuco",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Martina-Lounge-Bar--_77204746_3-13_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Martina-Lounge-Bar--_77204746_3-13_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Martina-Lounge-Bar--_77204746_3-13_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Martina-Lounge-Bar--_77204746_3-13_4.png"
+    ],
+    "days": ["lunes"],
+    "locations": ["temuco"],
+    "bank": "bci"
+  },
+  {
+    "id": "688c3190e1e214039390869a",
+    "restaurant": "Don Pedro - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Don Pedro, Temuco, con un tope máximo de $40.000. Solo para compras presenciales con tarjeta Bci.",
+    "titulo": "Viernes - Temuco",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Don-Pedro---Descuent_9390869a_3-16_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Don-Pedro---Descuent_9390869a_3-16_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Don-Pedro---Descuent_9390869a_3-16_3.png"
+    ],
+    "days": ["viernes"],
+    "locations": ["temuco"],
+    "bank": "bci"
+  },
+  {
+    "id": "688c3257e1e2140a4a908804",
+    "restaurant": "Dominga Bistró - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Dominga Bistró en Valdivia e Iquique, con un tope máximo de $40.000. Aplica solo los miércoles.",
+    "titulo": "Miércoles - Valdivia - Iquique",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Dominga-Bistr%C3%B3-Iquiq_4a908804_3-19_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Dominga-Bistr%C3%B3-Iquiq_4a908804_3-19_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Dominga-Bistr%C3%B3-Iquiq_4a908804_3-19_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Dominga-Bistr%C3%B3-Iquiq_4a908804_3-19_4.png"
+    ],
+    "days": ["miércoles"],
+    "locations": ["valdivia", "iquique"],
+    "bank": "bci"
+  },
+  {
+    "id": "688c3317049965ce635a28fe",
+    "restaurant": "Da Alessandro - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Da Alessandro, válido solo para compras presenciales en Puerto Varas, con un tope máximo de $40.000 por cliente.",
+    "titulo": "Miércoles - Puerto Varas",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Da-Alessandro---Desc_635a28fe_3-23_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Da-Alessandro---Desc_635a28fe_3-23_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Da-Alessandro---Desc_635a28fe_3-23_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Da-Alessandro---Desc_635a28fe_3-23_4.png"
+    ],
+    "days": ["miércoles"],
+    "locations": ["puerto varas"],
+    "bank": "bci"
+  },
+  {
+    "id": "688c33ece1e2142956908aa7",
+    "restaurant": "Cambalache - Descuento",
+    "descripcion": "Disfruta un 40% de descuento en Cambalache - Descuento en Puerto Varas, con un tope máximo de $40.000. Solo válido los jueves.",
+    "titulo": "Jueves - Puerto Varas",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cambalache---Descuen_56908aa7_3-26_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cambalache---Descuen_56908aa7_3-26_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cambalache---Descuen_56908aa7_3-26_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cambalache---Descuen_56908aa7_3-26_4.png"
+    ],
+    "days": ["jueves"],
+    "locations": ["puerto varas"],
+    "bank": "bci"
+  },
+  {
+    "id": "688c34ad62eb16c68ccad8c8",
+    "restaurant": "Parrilla el Galpón - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Parrilla el Galpón en Osorno, con un tope máximo de $40.000. Solo válido para compras presenciales los martes.",
+    "titulo": "Martes - Osorno",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Parrilla-el-Galpón--_8ccad8c8_3-29_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Parrilla-el-Galpón--_8ccad8c8_3-29_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Parrilla-el-Galpón--_8ccad8c8_3-29_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Parrilla-el-Galpón--_8ccad8c8_3-29_4.png"
+    ],
+    "days": ["martes"],
+    "locations": ["osorno"],
+    "bank": "bci"
+  },
+  {
+    "id": "688c355259f419735b204c73",
+    "restaurant": "Rocker Burger - Descuento",
+    "descripcion": "Disfruta un 40% de descuento en Rocker Burger en Talca, con un tope máximo de $40.000 por cliente. Aplica solo para compras presenciales con tarjeta Bci.",
+    "titulo": "Miércoles - Talca",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Rocker-Burger---Desc_5b204c73_3-32_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Rocker-Burger---Desc_5b204c73_3-32_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Rocker-Burger---Desc_5b204c73_3-32_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Rocker-Burger---Desc_5b204c73_3-32_4.png"
+    ],
+    "days": ["miércoles"],
+    "locations": ["Talca"],
+    "bank": "bci"
+  },
+  {
+    "id": "688c3649e6c77f31df38e065",
+    "restaurant": "Augusta Bar - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Augusta Bar en Concepción, con un tope máximo de $40.000 por cliente. Aplica solo para compras presenciales con Tarjetas de Crédito Bci.",
+    "titulo": "Jueves - Concepción",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Augusta-Bar---Descue_df38e065_3-36_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Augusta-Bar---Descue_df38e065_3-36_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Augusta-Bar---Descue_df38e065_3-36_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Augusta-Bar---Descue_df38e065_3-36_4.png"
+    ],
+    "days": ["jueves"],
+    "locations": ["concepción"],
+    "bank": "bci"
+  },
+  {
+    "id": "688c36d0e1e214678e908fb8",
+    "restaurant": "Cava Parrilla Bar - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Cava Parrilla Bar en Valdivia, con un tope máximo de $40.000 por cliente. Aplica solo para compras presenciales con Tarjetas de Crédito Bci.",
+    "titulo": "Lunes - Valdivia",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cava-Parrilla-Bar--_8e908fb8_3-38_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cava-Parrilla-Bar--_8e908fb8_3-38_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cava-Parrilla-Bar--_8e908fb8_3-38_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Cava-Parrilla-Bar--_8e908fb8_3-38_4.png"
+    ],
+    "days": ["lunes"],
+    "locations": ["valdivia"],
+    "bank": "bci"
+  },
+  {
+    "id": "688c3743e6c77f412438e1a2",
+    "restaurant": "Sello de Raza - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Sello de Raza en Valdivia, con un tope máximo de $40.000 por cliente. Aplica solo para compras presenciales.",
+    "titulo": "Jueves - Valdivia",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sello-de-Raza---Desc_2438e1a2_3-40_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sello-de-Raza---Desc_2438e1a2_3-40_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sello-de-Raza---Desc_2438e1a2_3-40_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Sello-de-Raza---Desc_2438e1a2_3-40_4.png"
+    ],
+    "days": ["jueves"],
+    "locations": ["valdivia"],
+    "bank": "bci"
+  },
+  {
+    "id": "688c3a1c10e7411f67c250e4",
+    "restaurant": "Ari Nikkei",
+    "descripcion": "Descuento del 40% en Ari Nikkei, con un tope máximo de $40.000. Válido solo en Las Condes, Chile.",
+    "titulo": "Miércoles - Las Condes",
+    "descuento": 40,
+    "imagenes": [],
     "days": ["miércoles"],
     "locations": ["Las Condes"],
     "bank": "bci"
   },
   {
-    "id": "683db7bb5dfb1e4a26d57861",
-    "restaurant": "DToros",
-    "descripcion": "Disfruta de un 40% de cashback todos los jueves en DToros, Pucón. Tope de $40.000 por usuario.",
-    "titulo": "Todos los jueves - La mejor gastronomía de Pucón.",
-    "descuento": 40,
-    "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/DToros_26d57861_14-54_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/DToros_26d57861_14-54_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/DToros_26d57861_14-54_3.png"
-    ],
-    "days": ["jueves"],
-    "locations": ["Pucón"],
-    "bank": "bci"
-  },
-  {
-    "id": "6865a21dcfa63c3c16399443",
-    "restaurant": "Holy Moly Lastarria",
-    "descripcion": "Disfruta de un 40% de cashback todos los jueves en Holy Moly Lastarria, con un tope de $40.000 por usuario. Promoción válida en Santiago.",
+    "id": "688c3ad57138ee692d03b4e4",
+    "restaurant": "Nikkei 419 - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Nikkei 419 - Descuento todos los jueves, con un tope máximo de $40.000. Válido solo en Viña del Mar.",
     "titulo": "Todos los jueves",
     "descuento": 40,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Holy-Moly-Lastarria_16399443_21-18_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Holy-Moly-Lastarria_16399443_21-18_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Holy-Moly-Lastarria_16399443_21-18_3.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Nikkei-419---Descuen_2d03b4e4_3-56_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Nikkei-419---Descuen_2d03b4e4_3-56_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Nikkei-419---Descuen_2d03b4e4_3-56_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Nikkei-419---Descuen_2d03b4e4_3-56_4.png"
     ],
     "days": ["jueves"],
-    "locations": ["Santiago"],
+    "locations": ["viña del mar"],
     "bank": "bci"
   },
   {
-    "id": "6865a567401effc5efbf32de",
-    "restaurant": "Holy Moly Tobalaba",
-    "descripcion": "Disfruta de un 40% de cashback todos los jueves en Holy Moly Tobalaba, con un tope de $40.000 por usuario. Disponible en Santiago.",
-    "titulo": "Todos los jueves",
-    "descuento": 40,
+    "id": "688c6b07e1e2149ddf90accb",
+    "restaurant": "Latin Grill Marriot - Descuento",
+    "descripcion": "Disfruta de un 50% de descuento en Latin Grill Marriot, válido solo para compras presenciales en Las Condes, Chile. No acumulable con otras promociones.",
+    "titulo": "Jueves - Las Condes",
+    "descuento": 50,
     "imagenes": [
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Holy-Moly-Tobalaba_efbf32de_21-32_1.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Holy-Moly-Tobalaba_efbf32de_21-32_2.png",
-      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Holy-Moly-Tobalaba_efbf32de_21-32_3.png"
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Latin-Grill---Descue_df90accb_7-21_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Latin-Grill---Descue_df90accb_7-21_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Latin-Grill---Descue_df90accb_7-21_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Latin-Grill---Descue_df90accb_7-21_4.png"
     ],
     "days": ["jueves"],
-    "locations": ["Santiago"],
+    "locations": ["las condes"],
+    "bank": "bci"
+  },
+  {
+    "id": "688c6cf359f419dc70206bea",
+    "restaurant": "The Crust - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento sin tope en The Crust - Descuento en Vitacura, solo los miércoles al pagar con tarjetas Bci. ¡No te lo pierdas!",
+    "titulo": "Miércoles - Vitacura",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/The-Crust---Descuent_70206bea_7-29_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/The-Crust---Descuent_70206bea_7-29_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/The-Crust---Descuent_70206bea_7-29_3.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/The-Crust---Descuent_70206bea_7-29_4.png"
+    ],
+    "days": ["miércoles"],
+    "locations": ["vitacura"],
+    "bank": "bci"
+  },
+  {
+    "id": "688c7ce0ab0012420dbc4228",
+    "restaurant": "Barrica 94 ViVO Los Trapenses",
+    "descripcion": "Disfruta de un 40% de descuento en Barrica 94 ViVO Los Trapenses, válido solo para compras presenciales. Descuento máximo de $40.000. Disponible todos los sábados en Lo Barnechea, Chile.",
+    "titulo": "Sábado - Lo Barnechea",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Barrica-94-ViVO-Los_0dbc4228_8-37_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Barrica-94-ViVO-Los_0dbc4228_8-37_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Barrica-94-ViVO-Los_0dbc4228_8-37_3.png"
+    ],
+    "days": ["sábado"],
+    "locations": ["lo barnechea"],
+    "bank": "bci"
+  },
+  {
+    "id": "688b0fc825ea23deb0fd73a6",
+    "restaurant": "Demencia - Descuento",
+    "descripcion": "Disfruta de un 50% de descuento en Demencia - Descuento en Vitacura, Chile. Aplica solo para compras presenciales con tarjetas Bci Visa Signature, Visa Infinite y Mastercard Black.",
+    "titulo": "Martes - Vitacura",
+    "descuento": 50,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Demencia---Descuento_b0fd73a6_6-40_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Demencia---Descuento_b0fd73a6_6-40_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Demencia---Descuento_b0fd73a6_6-40_3.png"
+    ],
+    "days": ["martes"],
+    "locations": ["vitacura"],
+    "bank": "bci"
+  },
+  {
+    "id": "688c761862eb161b66cb0236",
+    "restaurant": "Kechua - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento todos los jueves en Kechua - Descuento, ubicado en Nunoa, Chile. Aplica solo con tarjetas Bci.",
+    "titulo": "Jueves - Borde Río y Nunoa",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Kechua---Descuento_66cb0236_8-8_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Kechua---Descuento_66cb0236_8-8_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Kechua---Descuento_66cb0236_8-8_3.png"
+    ],
+    "days": ["jueves"],
+    "locations": ["nunoa"],
+    "bank": "bci"
+  },
+  {
+    "id": "688c78100499656cf25a4d39",
+    "restaurant": "Bar 21 - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Bar 21, Valdivia, solo los martes al pagar con Tarjetas de Crédito Bci.",
+    "titulo": "Martes - Valdivia",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-21---Descuento_f25a4d39_8-17_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-21---Descuento_f25a4d39_8-17_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Bar-21---Descuento_f25a4d39_8-17_3.png"
+    ],
+    "days": ["martes"],
+    "locations": ["Valdivia"],
+    "bank": "bci"
+  },
+  {
+    "id": "688c798cb0fe551cbe547f3b",
+    "restaurant": "Don Carlos - Descuento",
+    "descripcion": "Disfruta de un 40% de descuento en Don Carlos, ubicado en Las Condes, solo los martes. Aplica al pagar con Tarjetas de Crédito Visa Signature, Visa Infinite y Mastercard Black.",
+    "titulo": "Martes",
+    "descuento": 40,
+    "imagenes": [
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Don-Carlos---Descuen_be547f3b_8-23_1.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Don-Carlos---Descuen_be547f3b_8-23_2.png",
+      "https://www.bciplus.cl/storages/loyalty/campaigns-images/Don-Carlos---Descuen_be547f3b_8-23_3.png"
+    ],
+    "days": ["martes"],
+    "locations": ["las condes"],
     "bank": "bci"
   }
 ]
